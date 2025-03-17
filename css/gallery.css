@@ -1,0 +1,38 @@
+
+.container{
+    text-align: center;
+}
+.container .head-text.gallery-text{
+    color: var(--color-3);
+    font-size: 1em;
+    padding: 20px 0;
+}
+
+#gallery-container {
+    column-count: 3; /* Creates 3 columns */
+    column-gap: 10px; /* Space between columns */
+    display: block;
+}
+
+.box {
+    width: 100%;
+    margin-bottom: 10px; /* Spacing between items */
+}
+
+.box img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+    display: block;
+    border-radius: 5px; /* Optional: adds rounded corners */
+}
+
+/* Initially hide the button */
+#back-to-top {
+    display: none;
+
+}
+
+#back-to-top:hover {
+    background-color: #555;
+}
+
