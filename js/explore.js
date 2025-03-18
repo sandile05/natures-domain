@@ -816,55 +816,205 @@ const cardData = [
 
     // MAMMALS
 
-    { name: "African Bullfrog", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "African Elephant",
+      category: "Mammals",
+      animalName: "African Elephant",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Loxodonta africana",
+        habitat: "Savannas, forests, and grasslands in Africa",
+        diet: "Herbivorous—eats grass, bark, and fruit",
+        behavior: "Lives in matriarchal herds and communicates through low-frequency sounds",
+        adaptations: "Large ears help regulate body temperature",
+        status: "Vulnerable",
+        funFact: "Elephants can 'hear' with their feet by sensing vibrations!"
+      }
     },
-    { name: "Axolotl", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Cheetah",
+      category: "Mammals",
+      animalName: "Cheetah",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Acinonyx jubatus",
+        habitat: "Savannas and open grasslands in Africa and parts of Iran",
+        diet: "Carnivorous—feeds mainly on antelopes and small mammals",
+        behavior: "Solitary or lives in small groups, uses speed to hunt",
+        adaptations: "Can reach speeds of up to 120 km/h (75 mph)",
+        status: "Vulnerable",
+        funFact: "Cheetahs have non-retractable claws for better grip while running!"
+      }
     },
-    { name: "Carlifornia Newt", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Dolphin",
+      category: "Mammals",
+      animalName: "Dolphin",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Delphinidae",
+        habitat: "Oceans and coastal waters worldwide",
+        diet: "Carnivorous—eats fish and squid",
+        behavior: "Highly social, lives in pods and communicates with clicks and whistles",
+        adaptations: "Uses echolocation to find prey",
+        status: "Varies by species",
+        funFact: "Dolphins are one of the most intelligent animals, capable of recognizing themselves in mirrors!"
+      }
     },
-    { name: "Common Frog", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Giraffe",
+      category: "Mammals",
+      animalName: "Giraffe",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Giraffa camelopardalis",
+        habitat: "Savannas and open woodlands in Africa",
+        diet: "Herbivorous—feeds on leaves, flowers, and fruits",
+        behavior: "Lives in loose social groups and uses its long neck to reach food",
+        adaptations: "Has a long tongue (up to 45 cm) to help grasp leaves",
+        status: "Vulnerable",
+        funFact: "Giraffes only need about 30 minutes of sleep per day!"
+      }
     },
-    { name: "Eastern Grey Tree Frog", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Grizzly Bear",
+      category: "Mammals",
+      animalName: "Grizzly Bear",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Ursus arctos horribilis",
+        habitat: "Forests, mountains, and tundra in North America",
+        diet: "Omnivorous—eats fish, berries, and small mammals",
+        behavior: "Solitary except during mating season or when mothers raise cubs",
+        adaptations: "Thick fur provides insulation in cold climates",
+        status: "Not extinct",
+        funFact: "Grizzlies can run up to 56 km/h (35 mph) despite their size!"
+      }
     },
-    { name: "European Salamander", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Kangaroo",
+      category: "Mammals",
+      animalName: "Kangaroo",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Macropus",
+        habitat: "Grasslands, forests, and deserts in Australia",
+        diet: "Herbivorous—feeds on grasses and leaves",
+        behavior: "Lives in social groups called mobs, moves by hopping",
+        adaptations: "Strong hind legs allow powerful jumps",
+        status: "Not extinct",
+        funFact: "A kangaroo can’t walk backward!"
+      }
     },
-    { name: "Fire Salamander", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Lion",
+      category: "Mammals",
+      animalName: "Lion",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Panthera leo",
+        habitat: "Grasslands and savannas in Africa and parts of India",
+        diet: "Carnivorous—feeds on large herbivores like zebras and buffalo",
+        behavior: "Lives in prides and is the only social big cat",
+        adaptations: "Powerful jaws and teamwork allow them to take down large prey",
+        status: "Vulnerable",
+        funFact: "Lions can sleep up to 20 hours a day!"
+      }
     },
-    { name: "Green Tree Frog", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Polar Bear",
+      category: "Mammals",
+      animalName: "Polar Bear",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Ursus maritimus",
+        habitat: "Arctic sea ice and coastal regions",
+        diet: "Carnivorous—primarily eats seals",
+        behavior: "Solitary and relies on ice floes to hunt",
+        adaptations: "Thick blubber and fur provide insulation",
+        status: "Vulnerable",
+        funFact: "Despite their white fur, polar bears have black skin!"
+      }
     },
-    { name: "Mole Salamander", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Red Fox",
+      category: "Mammals",
+      animalName: "Red Fox",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Vulpes vulpes",
+        habitat: "Forests, grasslands, and urban areas worldwide",
+        diet: "Omnivorous—eats small mammals, fruits, and insects",
+        behavior: "Nocturnal and known for its cunning hunting skills",
+        adaptations: "Has excellent hearing to detect prey underground",
+        status: "Not extinct",
+        funFact: "Foxes use their tails as a blanket to keep warm!"
+      }
     },
-    { name: "Red-Eyed Tree Frog", category: "Mammals", animalName: "Frog", uniqueClassCategory: "mammal", 
-      backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-      animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-      funFact: "this is a fun fact about this animal"}
+    {
+      name: "Wolf",
+      category: "Mammals",
+      animalName: "Wolf",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Canis lupus",
+        habitat: "Forests, tundra, and mountains across North America, Europe, and Asia",
+        diet: "Carnivorous—feeds on deer, elk, and small mammals",
+        behavior: "Lives and hunts in packs",
+        adaptations: "Sharp teeth and strong social bonds aid survival",
+        status: "Not extinct",
+        funFact: "Wolves can communicate with over 20 different vocalizations!"
+      }
     },
 
 
