@@ -1022,56 +1022,206 @@ const cardData = [
 
         // REPTILES
 
-        { name: "African Bullfrog", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "American Alligator",
+          category: "Reptiles",
+          animalName: "American Alligator",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Alligator mississippiensis",
+            habitat: "Swamps, marshes, and slow-moving rivers in the southeastern United States",
+            diet: "Carnivorous—eats fish, birds, and small mammals",
+            behavior: "Solitary and territorial, ambushes prey in water",
+            adaptations: "Powerful jaws and armored skin for protection",
+            status: "Not extinct",
+            funFact: "Can stay underwater for up to an hour without surfacing!"
+          }
         },
-        { name: "Axolotl", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "Ball Python",
+          category: "Reptiles",
+          animalName: "Ball Python",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Python regius",
+            habitat: "Grasslands and forests in West and Central Africa",
+            diet: "Carnivorous—eats small mammals and birds",
+            behavior: "Nocturnal and non-venomous, coils into a ball when threatened",
+            adaptations: "Uses heat-sensitive pits to detect warm-blooded prey",
+            status: "Not extinct",
+            funFact: "Ball pythons can go months without eating!"
+          }
         },
-        { name: "Carlifornia Newt", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "Bearded Dragon",
+          category: "Reptiles",
+          animalName: "Bearded Dragon",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Pogona vitticeps",
+            habitat: "Deserts and dry woodlands in Australia",
+            diet: "Omnivorous—eats insects, fruits, and leaves",
+            behavior: "Basks in the sun and uses body language to communicate",
+            adaptations: "Can puff out its 'beard' when threatened",
+            status: "Not extinct",
+            funFact: "Can run on two legs when escaping predators!"
+          }
         },
-        { name: "Common Frog", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "Chameleon",
+          category: "Reptiles",
+          animalName: "Chameleon",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Chamaeleonidae",
+            habitat: "Forests, deserts, and savannas in Africa, Madagascar, and parts of Asia",
+            diet: "Carnivorous—eats insects and small invertebrates",
+            behavior: "Solitary and slow-moving, uses camouflage to avoid predators",
+            adaptations: "Can move its eyes independently and change skin color",
+            status: "Varies by species",
+            funFact: "Some chameleons have tongues longer than their body!"
+          }
         },
-        { name: "Eastern Grey Tree Frog", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "Common Snapping Turtle",
+          category: "Reptiles",
+          animalName: "Common Snapping Turtle",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Chelydra serpentina",
+            habitat: "Freshwater ponds, lakes, and swamps in North America",
+            diet: "Omnivorous—eats fish, amphibians, plants, and carrion",
+            behavior: "Aggressive when threatened, stays mostly underwater",
+            adaptations: "Strong jaw and hooked beak for catching prey",
+            status: "Not extinct",
+            funFact: "Can snap with a bite force of over 200 PSI!"
+          }
         },
-        { name: "European Salamander", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "Gila Monster",
+          category: "Reptiles",
+          animalName: "Gila Monster",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Heloderma suspectum",
+            habitat: "Deserts and scrublands in the southwestern United States and Mexico",
+            diet: "Carnivorous—eats eggs, small mammals, and birds",
+            behavior: "Slow-moving but venomous, stores fat in its tail",
+            adaptations: "One of the few venomous lizards, delivers toxins through grooves in teeth",
+            status: "Near Threatened",
+            funFact: "Its venom has been used to develop diabetes medication!"
+          }
         },
-        { name: "Fire Salamander", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "Green Anaconda",
+          category: "Reptiles",
+          animalName: "Green Anaconda",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Eunectes murinus",
+            habitat: "Swamps, marshes, and slow-moving rivers in South America",
+            diet: "Carnivorous—eats fish, birds, mammals, and even caimans",
+            behavior: "Ambush predator, constricts prey before swallowing",
+            adaptations: "Nostrils and eyes on top of the head allow it to stay submerged",
+            status: "Not extinct",
+            funFact: "One of the heaviest snakes in the world, weighing up to 250 kg!"
+          }
         },
-        { name: "Green Tree Frog", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "Komodo Dragon",
+          category: "Reptiles",
+          animalName: "Komodo Dragon",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Varanus komodoensis",
+            habitat: "Islands of Indonesia",
+            diet: "Carnivorous—eats deer, pigs, and even water buffalo",
+            behavior: "Uses ambush tactics and a powerful bite to kill prey",
+            adaptations: "Has venomous saliva that prevents blood clotting",
+            status: "Endangered",
+            funFact: "Can detect carrion from up to 9 km (5.6 miles) away!"
+          }
         },
-        { name: "Mole Salamander", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
+        {
+          name: "Leatherback Sea Turtle",
+          category: "Reptiles",
+          animalName: "Leatherback Sea Turtle",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Dermochelys coriacea",
+            habitat: "Oceans worldwide, from the tropics to cold waters",
+            diet: "Carnivorous—feeds mainly on jellyfish",
+            behavior: "Migrates thousands of kilometers between feeding and nesting sites",
+            adaptations: "Has a flexible, leathery shell instead of a hard one",
+            status: "Vulnerable",
+            funFact: "Can dive over 1,200 meters deep!"
+          }
         },
-        { name: "Red-Eyed Tree Frog", category: "Reptiles", animalName: "Frog", uniqueClassCategory: "reptile", 
-          backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-          animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-          funFact: "this is a fun fact about this animal"}
-        },
+        {
+          name: "Tokay Gecko",
+          category: "Reptiles",
+          animalName: "Tokay Gecko",
+          uniqueClassCategory: "reptile",
+          backgroundImage: "../assets/1.jpg",
+          modalBackgroundImage: "../assets/3.jpg",
+          image1: "../assets/2.jpg",
+          image2: "../assets/1.jpg",
+          image3: "../assets/3.jpg",
+          animalInfo: {
+            scientificName: "Gekko gecko",
+            habitat: "Rainforests and urban areas in Southeast Asia",
+            diet: "Carnivorous—eats insects and small vertebrates",
+            behavior: "Territorial and aggressive when threatened",
+            adaptations: "Sticky toe pads allow it to climb smooth surfaces",
+            status: "Not extinct",
+            funFact: "Has a loud, distinctive call that sounds like 'To-kay!'"
+          }
+        }
 ];
 
 // DOM Elements
