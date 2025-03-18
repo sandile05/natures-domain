@@ -917,6 +917,26 @@ const cardData = [
       }
     },
     {
+      name: "Jaguar",
+      category: "Mammals",
+      animalName: "Jaguar",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Panthera onca",
+        habitat: "Rainforests, swamps, and grasslands in Central and South America",
+        diet: "Carnivorous—feeds on deer, capybaras, and caimans",
+        behavior: "Solitary and highly territorial, ambushes prey",
+        adaptations: "Strongest bite force of any big cat, capable of crushing bones",
+        status: "Near Threatened",
+        funFact: "Unlike most cats, jaguars kill by biting through the skull!"
+      }
+    },
+    {
       name: "Kangaroo",
       category: "Mammals",
       animalName: "Kangaroo",
@@ -934,6 +954,26 @@ const cardData = [
         adaptations: "Strong hind legs allow powerful jumps",
         status: "Not extinct",
         funFact: "A kangaroo can’t walk backward!"
+      }
+    },
+    {
+      name: "Leopard",
+      category: "Mammals",
+      animalName: "Leopard",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Panthera pardus",
+        habitat: "Forests, savannas, and mountains across Africa and Asia",
+        diet: "Carnivorous—hunts small to medium-sized mammals and birds",
+        behavior: "Solitary and elusive, often drags prey up trees",
+        adaptations: "Strong, agile climber with excellent night vision",
+        status: "Vulnerable",
+        funFact: "Leopards can carry prey twice their weight up a tree!"
       }
     },
     {
@@ -994,6 +1034,46 @@ const cardData = [
         adaptations: "Has excellent hearing to detect prey underground",
         status: "Not extinct",
         funFact: "Foxes use their tails as a blanket to keep warm!"
+      }
+    },
+    {
+      name: "Snow Leopard",
+      category: "Mammals",
+      animalName: "Snow Leopard",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Panthera uncia",
+        habitat: "Rocky mountains and alpine forests in Central and South Asia",
+        diet: "Carnivorous—feeds on mountain goats, sheep, and smaller mammals",
+        behavior: "Solitary and elusive, active mainly at dawn and dusk",
+        adaptations: "Thick fur and long tail help it survive cold temperatures",
+        status: "Vulnerable",
+        funFact: "Snow leopards can leap up to 15 meters (50 feet) in one bound!"
+      }
+    },
+    {
+      name: "Tiger",
+      category: "Mammals",
+      animalName: "Tiger",
+      uniqueClassCategory: "mammal",
+      backgroundImage: "../assets/1.jpg",
+      modalBackgroundImage: "../assets/3.jpg",
+      image1: "../assets/2.jpg",
+      image2: "../assets/1.jpg",
+      image3: "../assets/3.jpg",
+      animalInfo: {
+        scientificName: "Panthera tigris",
+        habitat: "Forests, grasslands, and wetlands in Asia",
+        diet: "Carnivorous—feeds on deer, wild boar, and even bears",
+        behavior: "Solitary and territorial, marks its range with scent",
+        adaptations: "Camouflaged coat helps it ambush prey",
+        status: "Endangered",
+        funFact: "Tigers are excellent swimmers and love water!"
       }
     },
     {
