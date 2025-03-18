@@ -611,55 +611,205 @@ const cardData = [
 
   // INVERTEBRATES
 
-  { name: "African Bullfrog", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Ant",
+    category: "Invertebrates",
+    animalName: "Ant",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Formicidae",
+      habitat: "Forests, grasslands, and urban areas worldwide",
+      diet: "Omnivorous—eats plants, fungi, and other insects",
+      behavior: "Highly social, living in structured colonies with a queen",
+      adaptations: "Can carry objects up to 50 times its body weight",
+      status: "Not extinct",
+      funFact: "Ants communicate using pheromones!"
+    }
   },
-  { name: "Axolotl", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Butterfly",
+    category: "Invertebrates",
+    animalName: "Butterfly",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Lepidoptera",
+      habitat: "Gardens, meadows, and forests worldwide",
+      diet: "Nectar from flowers",
+      behavior: "Flies during the day and migrates in some species",
+      adaptations: "Colorful wings provide camouflage and warning signals",
+      status: "Not extinct",
+      funFact: "Some butterflies taste with their feet!"
+    }
   },
-  { name: "Carlifornia Newt", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Centipede",
+    category: "Invertebrates",
+    animalName: "Centipede",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Chilopoda",
+      habitat: "Soil, leaf litter, and under rocks worldwide",
+      diet: "Carnivorous—feeds on insects and small animals",
+      behavior: "Nocturnal and fast-moving",
+      adaptations: "Venomous fangs help subdue prey",
+      status: "Not extinct",
+      funFact: "Despite their name, they rarely have exactly 100 legs!"
+    }
   },
-  { name: "Common Frog", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Earthworm",
+    category: "Invertebrates",
+    animalName: "Earthworm",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Lumbricina",
+      habitat: "Soil and moist environments worldwide",
+      diet: "Decaying plant matter and microorganisms",
+      behavior: "Burrows underground, improving soil aeration",
+      adaptations: "Breathes through its skin",
+      status: "Not extinct",
+      funFact: "Can regenerate lost segments!"
+    }
   },
-  { name: "Eastern Grey Tree Frog", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Jellyfish",
+    category: "Invertebrates",
+    animalName: "Jellyfish",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Scyphozoa",
+      habitat: "Oceans worldwide",
+      diet: "Small fish, plankton, and crustaceans",
+      behavior: "Drifts with ocean currents",
+      adaptations: "Uses tentacles with stinging cells to catch prey",
+      status: "Not extinct",
+      funFact: "Some species are biologically immortal!"
+    }
   },
-  { name: "European Salamander", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Lobster",
+    category: "Invertebrates",
+    animalName: "Lobster",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Nephropidae",
+      habitat: "Oceans, near rocky and sandy bottoms",
+      diet: "Fish, mollusks, and algae",
+      behavior: "Solitary and territorial",
+      adaptations: "Strong claws help break open shells",
+      status: "Not extinct",
+      funFact: "Lobsters can live over 100 years!"
+    }
   },
-  { name: "Fire Salamander", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Octopus",
+    category: "Invertebrates",
+    animalName: "Octopus",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Octopoda",
+      habitat: "Oceans, especially coral reefs and deep waters",
+      diet: "Crustaceans, fish, and mollusks",
+      behavior: "Highly intelligent and problem-solving",
+      adaptations: "Can change color and texture for camouflage",
+      status: "Not extinct",
+      funFact: "Has three hearts and blue blood!"
+    }
   },
-  { name: "Green Tree Frog", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Scorpion",
+    category: "Invertebrates",
+    animalName: "Scorpion",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Scorpiones",
+      habitat: "Deserts, forests, and grasslands worldwide",
+      diet: "Insects, spiders, and small vertebrates",
+      behavior: "Nocturnal and solitary",
+      adaptations: "Has a venomous stinger for defense and hunting",
+      status: "Not extinct",
+      funFact: "Glows under ultraviolet light!"
+    }
   },
-  { name: "Mole Salamander", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Spider",
+    category: "Invertebrates",
+    animalName: "Spider",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Araneae",
+      habitat: "Forests, grasslands, and urban areas worldwide",
+      diet: "Insects and sometimes small vertebrates",
+      behavior: "Builds webs or actively hunts prey",
+      adaptations: "Silk-spinning abilities to create webs for trapping food",
+      status: "Not extinct",
+      funFact: "Some spiders can fly using silk threads!"
+    }
   },
-  { name: "Red-Eyed Tree Frog", category: "Invertebrates", animalName: "Frog", uniqueClassCategory: "invertebrate", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Squid",
+    category: "Invertebrates",
+    animalName: "Squid",
+    uniqueClassCategory: "invertebrate",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Teuthida",
+      habitat: "Oceans worldwide",
+      diet: "Fish, shrimp, and other squids",
+      behavior: "Fast swimmers, using jet propulsion",
+      adaptations: "Can release ink to escape predators",
+      status: "Not extinct",
+      funFact: "Some species have bioluminescent abilities!"
+    }
   },
 
 
