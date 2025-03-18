@@ -204,55 +204,203 @@ const cardData = [
 
   //AMPHIBIANS
 
-  { name: "African Bullfrog", category: "Amphibians", animalName: "FroAfrican Bullfrogg", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  { name: "African Bullfrog", 
+    category: "Amphibians", 
+    animalName: "African Bullfrogg", 
+    uniqueClassCategory: "amphibian", 
+    backgroundImage: "../assets/1.jpg", 
+    modalBackgroundImage: "../assets/3.jpg", 
+    image1: "../assets/2.jpg", 
+    image2: "../assets/1.jpg", 
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Pyxicephalus adspersus", 
+      habitat: "Dry and moist savannahs, subtropical or tropical dry shrublands across countries like Angola, Botswana, Kenya, Malawi, Mozambique, Namibia, South Africa, Swaziland, Tanzania, Zambia, and Zimbabwe", 
+      diet: "Invertebrates, lizards, birds, and other small vertebrates", 
+      behavior: "They are fossorial for most of the year, remaining in burrows or cocoons, and emerge at the start of the rains to breed in shallow pools and ditches.", 
+      adaptations: "Capable of forming a cocoon to reduce water loss during dry conditions and can remain dormant underground until the rains return.", 
+      status: "Least Concern",
+      funFact: "Male bullfrogs are attentive parents; if the pool where their tadpoles develop starts drying out, the male will dig a channel to a larger pool to ensure their survival."
+    }
   },
-  { name: "Axolotl", category: "Amphibians", animalName: "Axolotl", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  { name: "Axolotl", 
+    category: "Amphibians", 
+    animalName: "Axolotl", 
+    uniqueClassCategory: "amphibian", 
+    backgroundImage: "../assets/1.jpg", 
+    modalBackgroundImage: "../assets/3.jpg", 
+    image1: "../assets/2.jpg", 
+    image2: "../assets/1.jpg", 
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Ambystoma mexicanum", 
+      habitat: "Originally native to Lake Xochimilco in Mexico City.", 
+      diet: "Aquatic organisms, including fish, mollusks, aquatic insects, and other axolotls.", 
+      behavior: "Notable for retaining larval features, such as external gills, throughout their life—a condition known as paedomorphosis.", 
+      adaptations: "Remarkable ability to regenerate limbs, spinal cord, heart, and other organs.", 
+      status: "Critically Endangered.",
+      funFact: "Axolotls have become symbols of Mexican culture, appearing in various aspects of daily life, including murals, crafts, and even on currency, such as the 50-peso bill."
+    }
   },
-  { name: "Carlifornia Newt", category: "Amphibians", animalName: "Carlifornia Newt", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Common Frog",
+    category: "Amphibians",
+    animalName: "Common Frog",
+    uniqueClassCategory: "amphibian",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Rana temporaria",
+      habitat: "Ponds, marshes, and damp meadows in Europe and Asia",
+      diet: "Insects, spiders, and worms",
+      behavior: "Mostly nocturnal and hibernates during winter",
+      adaptations: "Can breathe through its skin while underwater",
+      status: "Not extinct",
+      funFact: "Can change skin color slightly to blend in with surroundings!"
+    }
   },
-  { name: "Common Frog", category: "Amphibians", animalName: "Common Frog", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Common Toad",
+    category: "Amphibians",
+    animalName: "Common Toad",
+    uniqueClassCategory: "amphibian",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Bufo bufo",
+      habitat: "Forests, gardens, and wetlands across Europe and Asia",
+      diet: "Insects, worms, and small invertebrates",
+      behavior: "Nocturnal and solitary, using a defensive posture when threatened",
+      adaptations: "Warty skin secretes toxins to deter predators",
+      status: "Not extinct",
+      funFact: "Can live up to 40 years in captivity!"
+    }
   },
-  { name: "Eastern Grey Tree Frog", category: "Amphibians", animalName: "Eastern Grey Tree Frog", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Dyeing Dart Frog",
+    category: "Amphibians",
+    animalName: "Dyeing Dart Frog",
+    uniqueClassCategory: "amphibian",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Dendrobates tinctorius",
+      habitat: "Tropical rainforests of South America",
+      diet: "Small insects like ants and termites",
+      behavior: "Diurnal and territorial, using bright colors as a warning",
+      adaptations: "Skin secretes powerful toxins obtained from its diet",
+      status: "Not extinct",
+      funFact: "Some indigenous tribes used poison dart frog toxins for hunting!"
+    }
   },
-  { name: "European Salamander", category: "Amphibians", animalName: "European Salamander", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Fire Salamander",
+    category: "Amphibians",
+    animalName: "Fire Salamander",
+    uniqueClassCategory: "amphibian",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Salamandra salamandra",
+      habitat: "Forests and humid areas in Europe",
+      diet: "Worms, insects, and small arthropods",
+      behavior: "Active mostly at night and secretes toxins when disturbed",
+      adaptations: "Bright black-and-yellow coloration warns predators",
+      status: "Not extinct",
+      funFact: "Fire salamanders were once believed to be born from fire!"
+    }
   },
-  { name: "Fire Salamander", category: "Amphibians", animalName: "Fire Salamander", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Green Tree Frog",
+    category: "Amphibians",
+    animalName: "Green Tree Frog",
+    uniqueClassCategory: "amphibian",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Hyla cinerea",
+      habitat: "Wetlands, swamps, and forests in the southeastern US",
+      diet: "Insects and small invertebrates",
+      behavior: "Nocturnal and arboreal, often found clinging to leaves",
+      adaptations: "Sticky toe pads allow it to climb smooth surfaces",
+      status: "Not extinct",
+      funFact: "Known for their loud, musical calls!"
+    }
   },
-  { name: "Green Tree Frog", category: "Amphibians", animalName: "Green Tree Frog", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Hellbender",
+    category: "Amphibians",
+    animalName: "Hellbender",
+    uniqueClassCategory: "amphibian",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Cryptobranchus alleganiensis",
+      habitat: "Fast-moving streams and rivers in the eastern US",
+      diet: "Fish, crustaceans, and small amphibians",
+      behavior: "Mostly nocturnal and hides under rocks during the day",
+      adaptations: "Flattened body and loose skin help absorb oxygen from water",
+      status: "Near threatened",
+      funFact: "One of the largest salamanders in the world!"
+    }
   },
-  { name: "Mole Salamander", category: "Amphibians", animalName: "Mole Salamander", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "Oriental Fire-Bellied Toad",
+    category: "Amphibians",
+    animalName: "Oriental Fire-Bellied Toad",
+    uniqueClassCategory: "amphibian",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Bombina orientalis",
+      habitat: "Swamps, rice paddies, and forests in Asia",
+      diet: "Insects, worms, and crustaceans",
+      behavior: "Displays a ‘unken reflex,’ showing its bright belly when threatened",
+      adaptations: "Secretes toxins from its skin as a defense",
+      status: "Not extinct",
+      funFact: "Known as the ‘fire-bellied toad’ because of its red underside!"
+    }
   },
-  { name: "Red-Eyed Tree Frog", category: "Amphibians", animalName: "Red-Eyed Tree Frog", uniqueClassCategory: "amphibian", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
+  {
+    name: "White’s Tree Frog",
+    category: "Amphibians",
+    animalName: "White’s Tree Frog",
+    uniqueClassCategory: "amphibian",
+    backgroundImage: "../assets/1.jpg",
+    modalBackgroundImage: "../assets/3.jpg",
+    image1: "../assets/2.jpg",
+    image2: "../assets/1.jpg",
+    image3: "../assets/3.jpg",
+    animalInfo: {
+      scientificName: "Litoria caerulea",
+      habitat: "Trees and vegetation near water in Australia",
+      diet: "Insects, spiders, and small frogs",
+      behavior: "Docile and often found in human dwellings",
+      adaptations: "Can store water in its body to survive dry periods",
+      status: "Not extinct",
+      funFact: "Can change color based on temperature and mood!"
+    }
   },
 
 
