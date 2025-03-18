@@ -407,56 +407,206 @@ const cardData = [
 
 // BIRDS
 
-  { name: "African Bullfrog", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "Axolotl", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "Carlifornia Newt", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "Common Frog", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "Eastern Grey Tree Frog", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "European Salamander", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "Fire Salamander", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "Green Tree Frog", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "Mole Salamander", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
-  { name: "Red-Eyed Tree Frog", category: "Birds", animalName: "Frog", uniqueClassCategory: "bird", 
-    backgroundImage: "../assets/1.jpg", modalBackgroundImage: "../assets/3.jpg", image1: "../assets/2.jpg", image2: "../assets/1.jpg", image3: "../assets/3.jpg",
-    animalInfo: {scientificName: "weird Scientific name", habitat: "where it's found", diet: "what it eats", behavior: "how it bahaves", adaptations: "features such as this help it survive", status: "extinct or not",
-    funFact: "this is a fun fact about this animal"}
-  },
+{
+  name: "American Robin",
+  category: "Birds",
+  animalName: "American Robin",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Turdus migratorius",
+    habitat: "Forests, gardens, and parks across North America",
+    diet: "Earthworms, insects, and berries",
+    behavior: "Diurnal, known for its melodious song",
+    adaptations: "Strong vision helps it spot worms in the soil",
+    status: "Not extinct",
+    funFact: "Often considered a harbinger of spring in North America!"
+  }
+},
+{
+  name: "Bald Eagle",
+  category: "Birds",
+  animalName: "Bald Eagle",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Haliaeetus leucocephalus",
+    habitat: "Near lakes, rivers, and coastal regions in North America",
+    diet: "Primarily fish, but also small mammals and birds",
+    behavior: "Territorial and monogamous, building large nests in trees",
+    adaptations: "Powerful talons and sharp eyesight for hunting",
+    status: "Not extinct",
+    funFact: "Has a wingspan of up to 7 feet!"
+  }
+},
+{
+  name: "Barn Owl",
+  category: "Birds",
+  animalName: "Barn Owl",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Tyto alba",
+    habitat: "Open woodlands, farmlands, and barns worldwide",
+    diet: "Mostly small rodents",
+    behavior: "Nocturnal and silent in flight",
+    adaptations: "Heart-shaped face helps direct sound for hunting",
+    status: "Not extinct",
+    funFact: "Can locate prey purely by sound in complete darkness!"
+  }
+},
+{
+  name: "Blue Jay",
+  category: "Birds",
+  animalName: "Blue Jay",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Cyanocitta cristata",
+    habitat: "Forests, suburbs, and city parks in North America",
+    diet: "Nuts, seeds, insects, and small vertebrates",
+    behavior: "Intelligent and social, often mimicking hawk calls",
+    adaptations: "Strong memory helps them store food for later",
+    status: "Not extinct",
+    funFact: "Can recognize human faces and remember individuals!"
+  }
+},
+{
+  name: "Common Kingfisher",
+  category: "Birds",
+  animalName: "Common Kingfisher",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Alcedo atthis",
+    habitat: "Lakes, rivers, and coastal regions in Europe and Asia",
+    diet: "Small fish, aquatic insects, and crustaceans",
+    behavior: "Solitary and territorial, diving to catch prey",
+    adaptations: "Streamlined body and specialized beak for fishing",
+    status: "Not extinct",
+    funFact: "Can dive into the water at lightning speed!"
+  }
+},
+{
+  name: "Emperor Penguin",
+  category: "Birds",
+  animalName: "Emperor Penguin",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Aptenodytes forsteri",
+    habitat: "Antarctic ice sheets and surrounding oceans",
+    diet: "Fish, squid, and krill",
+    behavior: "Highly social and forms large colonies",
+    adaptations: "Thick layer of blubber and dense feathers for warmth",
+    status: "Near threatened",
+    funFact: "Males incubate eggs on their feet for two months without eating!"
+  }
+},
+{
+  name: "European Robin",
+  category: "Birds",
+  animalName: "European Robin",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Erithacus rubecula",
+    habitat: "Gardens, forests, and countryside in Europe",
+    diet: "Insects, berries, and seeds",
+    behavior: "Territorial and aggressive despite its cute appearance",
+    adaptations: "Excellent vision helps it find food in low light",
+    status: "Not extinct",
+    funFact: "Males and females sing year-round to defend territory!"
+  }
+},
+{
+  name: "Great Horned Owl",
+  category: "Birds",
+  animalName: "Great Horned Owl",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Bubo virginianus",
+    habitat: "Forests, grasslands, and deserts in the Americas",
+    diet: "Mammals, birds, reptiles, and amphibians",
+    behavior: "Nocturnal and silent in flight, ambushing prey",
+    adaptations: "Powerful talons can exert 500 pounds of pressure",
+    status: "Not extinct",
+    funFact: "Can turn its head 270 degrees!"
+  }
+},
+{
+  name: "Peacock",
+  category: "Birds",
+  animalName: "Peacock",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Pavo cristatus",
+    habitat: "Forests and open woodlands in South Asia",
+    diet: "Seeds, insects, and small reptiles",
+    behavior: "Males display their large, colorful tail feathers to attract females",
+    adaptations: "Iridescent feathers create a shimmering effect",
+    status: "Not extinct",
+    funFact: "The peacock's train can be over 5 feet long!"
+  }
+},
+{
+  name: "Peregrine Falcon",
+  category: "Birds",
+  animalName: "Peregrine Falcon",
+  uniqueClassCategory: "bird",
+  backgroundImage: "../assets/1.jpg",
+  modalBackgroundImage: "../assets/3.jpg",
+  image1: "../assets/2.jpg",
+  image2: "../assets/1.jpg",
+  image3: "../assets/3.jpg",
+  animalInfo: {
+    scientificName: "Falco peregrinus",
+    habitat: "Cliffs, mountains, and urban areas worldwide",
+    diet: "Mostly birds, caught in mid-air",
+    behavior: "Fast and agile, known for its incredible hunting skills",
+    adaptations: "Can reach speeds of over 240 mph when diving",
+    status: "Not extinct",
+    funFact: "The fastest bird in the world!"
+  }
+},
 
 
   // INVERTEBRATES
