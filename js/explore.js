@@ -303,8 +303,8 @@ const cardData = [
     }
   },
   {
-    name: "Fire Salamander",
-    category: "Amphibians",
+    name: "Fire Salmamander",
+    category: "Aphibians",
     animalName: "Fire Salamander",
     uniqueClassCategory: "amphibian",
     backgroundImage: "../assets/1.jpg",
