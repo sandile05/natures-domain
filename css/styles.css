@@ -1,7 +1,4 @@
-
-/* google fonts */
-@import url('https://fonts.googleapis.com/css2?family=Black+Ops+One&family=DynaPuff&family=Neucha&family=Offside&family=Rubik+Bubbles&family=Saira+Stencil+One&display=swap');
-
+ 
 
 /* general styles */
 /* css reset  */
@@ -27,25 +24,16 @@ html, body {
 
 :root{
   --light-gray: rgba(255, 255, 255, 0.5);
-  --light-bg: #e7dfe8;
-  --nav-light-bg: rgba(173, 223, 224, 0.5);
+  --light-bg: #FAF3E0;
+  --nav-light-bg: #96bc62af;
   --nav-active: rgb(79, 114, 98);
+  --section-bg: rgba(171, 236, 165, 0.295);
+  --text-color: #1C1C1C;
+  --color-2: #2C5F2D;
+  --color-3: #97BC62;
+  --color-4: #E2C044;
+  --color-5: #E2C044;
 
- /* Color Palette */
- --color-primary: #2C5F2D;   /* Deep Forest Green */
- --color-secondary: #97BC62; /* Olive Green */
- --color-accent: #E2C044;    /* Golden Sand */
- --color-light-bg: #FAF3E0;  /* Soft Beige */
- --color-dark-text: #1C1C1C; /* Charcoal Black */
-
- /* Typography */
- --font-main: 'Poppins', sans-serif;
- --font-alt: 'Merriweather', serif;
-
- /* Button Styles */
- --btn-bg: var(--color-primary);
- --btn-hover: var(--color-secondary);
- --btn-text: #ffffff;
   --input-bg: rgba(255, 255, 255, 0.281);
   --glass-bg: rgba(255, 255, 255, 0.199);
 
@@ -121,7 +109,6 @@ p{
   width: 95%;
   max-width: 1000px;
   margin: 0 auto;
-  text-align: center;
 }
 
 .container .head-text{

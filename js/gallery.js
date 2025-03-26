@@ -94,76 +94,76 @@ window.addEventListener('resize', handleResize);
 handleResize();
 
 const galleryImages = document.querySelectorAll("#gallery-container img");
-    const lightbox = document.getElementById("lightbox");
-    const lightboxImg = document.getElementById("lightbox-img");
-    const closeBtn = document.querySelector(".close");
-    const leftArrow = document.querySelector(".left-arrow");
-    const rightArrow = document.querySelector(".right-arrow");
+const lightbox = document.getElementById("lightbox");
+const lightboxImg = document.getElementById("lightbox-img");
+const closeBtn = document.querySelector(".close");
+const leftArrow = document.querySelector(".left-arrow");
+const rightArrow = document.querySelector(".right-arrow");
 
-    let currentIndex = 0;
-    let startX = 0;
+let currentIndex = 0;
+let startX = 0;
 
-    // Open lightbox
-    galleryImages.forEach((img, index) => {
-        img.addEventListener("click", () => {
-            currentIndex = index;
-            showImage(currentIndex);
-            lightbox.style.display = "flex";
-        });
-    });
-
-    // Show selected image
-    function showImage(index) {
-        lightboxImg.src = galleryImages[index].src;
-    }
-
-    // Close lightbox
-    closeBtn.addEventListener("click", () => {
-        lightbox.style.display = "none";
-    });
-
-    // Swipe functionality
-    lightboxImg.addEventListener("touchstart", (e) => {
-        startX = e.touches[0].clientX;
-    });
-
-    lightboxImg.addEventListener("touchmove", (e) => {
-        let moveX = e.touches[0].clientX;
-        let diff = startX - moveX;
-
-        if (diff > 50) {
-            nextImage(); // Swipe left to go forward
-        } else if (diff < -50) {
-            prevImage(); // Swipe right to go back
-        }
-    });
-
-    // Arrow Clicks
-    leftArrow.addEventListener("click", prevImage);
-    rightArrow.addEventListener("click", nextImage);
-
-    function nextImage() {
-        currentIndex = (currentIndex + 1) % galleryImages.length;
+// Open lightbox
+galleryImages.forEach((img, index) => {
+    img.addEventListener("click", () => {
+        currentIndex = index;
         showImage(currentIndex);
-    }
-
-    function prevImage() {
-        currentIndex = (currentIndex - 1 + galleryImages.length) % galleryImages.length;
-        showImage(currentIndex);
-    }
-
-    // Keyboard Support
-    document.addEventListener("keydown", (e) => {
-        if (lightbox.style.display === "flex") {
-            if (e.key === "ArrowRight") {
-                nextImage();
-            } else if (e.key === "ArrowLeft") {
-                prevImage();
-            } else if (e.key === "Escape") {
-                lightbox.style.display = "none";
-            }
-        }
+        lightbox.style.display = "flex";
     });
+});
+
+// Show selected image
+function showImage(index) {
+    lightboxImg.src = galleryImages[index].src;
+}
+
+// Close lightbox
+closeBtn.addEventListener("click", () => {
+    lightbox.style.display = "none";
+});
+
+// Swipe functionality
+lightboxImg.addEventListener("touchstart", (e) => {
+    startX = e.touches[0].clientX;
+});
+
+lightboxImg.addEventListener("touchmove", (e) => {
+    let moveX = e.touches[0].clientX;
+    let diff = startX - moveX;
+
+    if (diff > 50) {
+        nextImage(); // Swipe left to go forward
+    } else if (diff < -50) {
+        prevImage(); // Swipe right to go back
+    }
+});
+
+// Arrow Clicks
+leftArrow.addEventListener("click", prevImage);
+rightArrow.addEventListener("click", nextImage);
+
+function nextImage() {
+    currentIndex = (currentIndex + 1) % galleryImages.length;
+    showImage(currentIndex);
+}
+
+function prevImage() {
+    currentIndex = (currentIndex - 1 + galleryImages.length) % galleryImages.length;
+    showImage(currentIndex);
+}
+
+// Keyboard Support
+document.addEventListener("keydown", (e) => {
+    if (lightbox.style.display === "flex") {
+        if (e.key === "ArrowRight") {
+            nextImage();
+        } else if (e.key === "ArrowLeft") {
+            prevImage();
+        } else if (e.key === "Escape") {
+            lightbox.style.display = "none";
+        }
+    }
+});
 
 });
 
