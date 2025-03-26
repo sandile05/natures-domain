@@ -1,3 +1,10 @@
+@import url('styles.css');
+
+
+  
+
+  
+  
 
 
 @media screen and (max-width: 1200x) {
@@ -26,6 +33,13 @@
     }
   }
 
+  /* Media query for tablets and smaller laptops */
+  @media (max-width: 1024px) {
+    ._card_container {
+      grid-template-columns: repeat(3, 1fr); /* Three cards per row */
+    }
+  }
+  
 
 
   @media (max-width: 768px) {
@@ -39,7 +53,7 @@
       right: 0.5rem;
       top: 3.4rem;
       flex-direction: column;
-      gap: 0;
+      gap: 0rem !important;
       width: fit-content;
       display: none; /* Initially hidden on small screens */
     }
@@ -47,9 +61,8 @@
     .nav__toggle-open,
     .nav__toggle-close {
       display: inline-flex; /* inline-flex for consistent sizing and alignment */
-      font-size: 1.8rem;
-      width: 40px; /* Ensure toggle buttons also have a fixed width */
-      height: 40px; /* Ensure toggle buttons also have a fixed height */
+      width: 30px; /* Ensure toggle buttons also have a fixed width */
+      height: 30px; /* Ensure toggle buttons also have a fixed height */
     }
 
     .nav__toggle-close {
@@ -64,19 +77,21 @@
 
 
     .nav__menu li a{
-        background:  rgba(155, 205, 206, 0.836);
+        background:  var(--nav-light-bg);
         padding: 1rem 4rem;
-        /* margin-top: 2px; */
+        
         width: 100%;
         display: block;
         border-bottom: 2px solid rgb(99, 99, 99);
         text-align: center;
         box-shadow: -1.5rem 5rem 5rem rgba(0, 0, 0, 0.3);
-        color: #580d26;
+        color: var(--color-2);
+        gap: 0px;
+        margin: 0px;
     }
 
-    .nav__menu li a:hover, .nav__menu li a:active{
-      color: #00475ce1;
+    .nav__menu li a:hover{
+      color: var(--color-6);
     }
 
     .nav__menu li {
@@ -127,7 +142,8 @@
   }
 
   .footer__menu{
-    display: none;
+    gap: 1rem;
+    font-size: smaller;
   }
 
   footer{
@@ -141,7 +157,14 @@
   .popup-video video{
     width: 95%;
   }
-
+  
+  ._card_container {
+    grid-template-columns: repeat(2, 1fr) !important; /* Two cards per row */
+  }
+  .swiper.mySwiperTop {
+   
+    height: 270px;
+}
 }
 
 
@@ -200,8 +223,18 @@
       font-size: 0.8em;
       padding: 1.5rem 0;
     }
+  }
 
 
+  /* Media query for very small screens (mobile devices) */
+  @media (max-width: 480px) {
+    ._card_container {
+      grid-template-columns: repeat(2, 1fr); /* Single card per row */
+    }
+
+    ._card {
+      height: 200px; /* Adjust as needed */
+    }
   }
 
   @media screen and (max-width: 430px){
@@ -215,6 +248,10 @@
   .explore-text p{
     font-size: 1.3rem !important;
   }
+
+  .nav__buttons {
+      top: -15px !important;
+    }
   }
 
   @media screen and (max-width: 339px){
