@@ -23,16 +23,16 @@ html, body {
 /* colors  */
 
 :root{
-  --light-gray: rgba(255, 255, 255, 0.5);
+  --light-gray: rgba(228, 99, 13, 0.377);
   --light-bg: #FAF3E0;
-  --nav-light-bg: #96bc62af;
-  --nav-active: rgb(79, 114, 98);
-  --section-bg: rgba(171, 236, 165, 0.295);
+  --nav-light-bg: #badf87af;
+  --section-bg: rgba(216, 215, 139, 0.452);
   --text-color: #1C1C1C;
   --color-2: #2C5F2D;
   --color-3: #97BC62;
-  --color-4: #E2C044;
-  --color-5: #E2C044;
+  --color-4: #e2ab44;
+  --color-5: #e2b044;
+  --color-6: #775203;
 
   --input-bg: rgba(255, 255, 255, 0.281);
   --glass-bg: rgba(255, 255, 255, 0.199);
@@ -97,7 +97,7 @@ h3{
     font-family: "Offside", system-ui;
     font-size: 2rem;
     /* padding-bottom: 50px; */
-    color: var(--color-3);
+    color: var(--color-);
 }
 
 p{
@@ -109,6 +109,7 @@ p{
   width: 95%;
   max-width: 1000px;
   margin: 0 auto;
+  text-align: center;
 }
 
 .container .head-text{
@@ -127,8 +128,10 @@ p{
   height: 40px;
   padding: 12px 17px;
   border-radius: 50px;
-  background-color: var(--light-gray);
-  color: var(--color-3);
+  background-color: var(--btn-bg);
+  color: var(--color-6);
+  padding: 12px 20px;
+  border: none;
   font-size: 16px;
   font-weight: 500;
   box-shadow: var(--box-shadow-1);
@@ -143,7 +146,7 @@ p{
 
 
 .btn:hover {
-    background-color: #2222221a;
+    background-color: rgb(235, 204, 158);
     color: var(--color-2);
 }
 
@@ -168,9 +171,6 @@ nav {
   -ms-backdrop-filter: blur(3px);
 }
 
-.nav-link.active {
-  color: var(--nav-active); /* Example active color */
-}
 
 
 .nav__logo img{
@@ -260,7 +260,7 @@ nav {
 #hero{
   position: relative;
   height: 100vh; /* Full screen height */
-  background-image: url('../assets/hero-large.jpg');
+  background-image: url('../assets/mammals/african-elephant-1.webp');
   background-size: cover;
   background-position: center;
   display: flex;
@@ -277,7 +277,7 @@ nav {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(160, 190, 180, 0.664);
+  background: rgba(26, 19, 13, 0.664);
   z-index: 1; /* Ensure the overlay appears above the background */
 }
 
@@ -288,7 +288,7 @@ nav {
 
 .hero-container h1 {
   font-size: 8rem;
-  color: var(--color-3);
+  color: var(--color-2);
   opacity: 0.5;
 }
 
@@ -298,7 +298,7 @@ nav {
 
 .hero-container p {
   font-size: 2.1rem;
-  color: var(--text-color);
+  color: var(--color-4);
   font-weight: 500;
   margin-bottom: 20px;
   padding-bottom: 20px;
@@ -353,7 +353,7 @@ nav {
 }
 
 .quote .container p{
-  color: var(--color-2);
+  color: var(--color-6);
   font-size: 1.3rem;
 }
 
@@ -417,7 +417,7 @@ section#quote{
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: rgba(160, 190, 180, 0.5);
+  background-color:  rgba(26, 19, 13, 0.664);;
   z-index: 1; /* Overlay above the background */
 }
 
@@ -791,41 +791,10 @@ section#quote{
   text-align: start;
 }
 
-/* animated banner styles  */
-.animated-banner {
-  overflow: hidden; /* Hide the overflowing content */
-  position: relative; /* Position relative to allow absolute positioning of inner content */
-  width: 100%; /* Full width */
-
-}
-
-.banner-content {
-  display: flex; /* Align images in a row */
-  animation: scrollBanner 10s linear infinite;
-  white-space: nowrap; /* Prevent line breaks */
-  gap: 65px;
-}
-
-.scrolling-image {
-  height: 50px;
-  margin-right: 10px;
-}
-
-/* Keyframes for the scrolling animation */
-@keyframes scrollBanner {
-  0% {
-    transform: translateX(0); /* Start from the left */
-  }
-  100% {
-    transform: translateX(-140%); /* Move to the left, out of view */
-  }
-}
-
-
 /* footer styles  */
 
 footer{
-  background: var(--color-5);
+  background: var(--color-3);
   padding-top: 2rem;
 }
 
@@ -836,7 +805,7 @@ footer{
 }
 
 .footer__menu a{
-  color: var(--light-bg);
+  color: var(--color-6);
   transition: var(--transition);
 }
 
@@ -853,7 +822,7 @@ footer{
 
 .footer__socials a{
   background: var(--color-gray-light);
-  color: var(--light-bg);
+  color: var(--color-6);
   padding: 0.6rem;
   display: flex;
   border-radius: var(--radius-1);
@@ -868,7 +837,7 @@ footer{
 }
 
 .footer__copyright{
-  color: var(--light-gray);
+  color: var(--color-6);
   text-align: center;
   border-top: 1px solid var(--light-gray);
   padding: 1.5rem 0;
@@ -901,6 +870,6 @@ footer{
 }
 
 #backToTop:hover{
-  background-color: #580d26;
-  color: var(--light-gray)
+  background-color: var(--color-3);
+  color: var(--color-6)
 }
