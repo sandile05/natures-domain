@@ -1,7 +1,6 @@
+@import url('styles.css'); 
 
-.container{
-    text-align: center;
-}
+
 .container .head-text.gallery-text{
     color: var(--color-3);
     font-size: 1em;
@@ -110,3 +109,7 @@
     background-color: #555;
 }
 
+.footer__container{
+    margin-top: -80px;
+    z-index: 2;
+}
