@@ -26,6 +26,71 @@
     border-radius: 5px; /* Optional: adds rounded corners */
 }
 
+.lightbox {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1000;
+    justify-content: center;
+    align-items: center;
+}
+
+.lightbox-content {
+    position: relative;
+    max-width: 90%;
+    max-height: 90%;
+    overflow: hidden;
+}
+
+.lightbox img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+}
+
+/* Close Button */
+.close {
+    position: absolute;
+    top: 15px;
+    right: 25px;
+    font-size: 2rem;
+    color: white;
+    cursor: pointer;
+}
+
+/* Swipe Interaction */
+.lightbox-content {
+    touch-action: pan-y;
+}
+
+/* Arrows */
+.arrow {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 3rem;
+    color: white;
+    cursor: pointer;
+    padding: 10px;
+    transition: 0.3s;
+    user-select: none;
+}
+
+.left-arrow {
+    left: 20px;
+}
+
+.right-arrow {
+    right: 20px;
+}
+
+.arrow:hover {
+    color: #ddd;
+}
 /* Initially hide the button */
 #back-to-top {
     display: none;
