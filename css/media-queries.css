@@ -235,6 +235,11 @@
     ._card {
       height: 200px; /* Adjust as needed */
     }
+
+    .nav__buttons {
+      top: 7px !important;
+    }
+   
   }
 
   @media screen and (max-width: 430px){
@@ -249,9 +254,6 @@
     font-size: 1.3rem !important;
   }
 
-  .nav__buttons {
-    top: 7px !important;
-  }
  
   }
 
