@@ -1343,7 +1343,7 @@ const cardData = [
         : "card-default";
   
       cardContainer.innerHTML += `
-        <div class="_card ${uniqueClass}" data-category="${card.category}" style="background-image: url('${card.backgroundImage}')">
+        <div class="_card ${uniqueClass}" data-aos="fade-left" data-aos-delay="300" data-category="${card.category}" style="background-image: url('${card.backgroundImage}')">
           <div class="card-overlay">
             <div class="card-heading">
               <h1>${card.animalName}</h1>
