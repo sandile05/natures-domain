@@ -364,7 +364,7 @@
   left: 0;
   right: 0;
   height: 70%; /* Bottom half overlay */
-  background: linear-gradient(to top, rgba(11, 43, 2, 0.87), transparent);
+  background: linear-gradient(to top, rgba(7, 27, 1, 0.932), transparent);
   color: white;
   padding: 15px;
   display: flex;
