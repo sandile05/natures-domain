@@ -227,18 +227,20 @@
 
 
   /* Media query for very small screens (mobile devices) */
-  @media (max-width: 480px) {
+  @media (max-width: 490px) {
     ._card_container {
       grid-template-columns: repeat(2, 1fr); /* Single card per row */
+    }
+
+    nav{
+      height: 2rem;
     }
 
     ._card {
       height: 200px; /* Adjust as needed */
     }
 
-    .nav__buttons {
-      top: 25px !important;
-    }
+    
    
   }
 
