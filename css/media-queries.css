@@ -51,7 +51,7 @@
     .nav__menu {
       position: fixed;
       right: 0.5rem;
-      top: 3.4rem;
+      top: 2.6rem;
       flex-direction: column;
       gap: 0rem !important;
       width: fit-content;
@@ -240,7 +240,7 @@
       height: 200px; /* Adjust as needed */
     }
 
-    
+
    
   }
 
