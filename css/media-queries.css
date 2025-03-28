@@ -249,6 +249,9 @@
     font-size: 1.3rem !important;
   }
 
+  .nav__buttons {
+    top: 7px !important;
+  }
  
   }
 
@@ -257,6 +260,7 @@
       font-size: 13px;
     }
 
+  
   }
 
 
