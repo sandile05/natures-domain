@@ -171,7 +171,6 @@ nav {
 
 nav h4{
   color: var(--color-2);
-  padding-bottom: 10px;
 }
 
 .nav__logo img{
@@ -190,7 +189,6 @@ nav h4{
   align-items: center;
   justify-content: center;
   gap: 1.2rem;
-  padding-bottom: 15px;
 }
 
 .nav__menu a{
@@ -218,7 +216,7 @@ nav h4{
 
 
 .nav__btn {
-  font-size: 1.2rem;
+  font-size: 1.5rem;
   background: transparent;
   margin: 0;
   padding: 0;

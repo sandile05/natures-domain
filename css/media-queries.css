@@ -61,8 +61,6 @@
     .nav__toggle-open,
     .nav__toggle-close {
       display: inline-flex; /* inline-flex for consistent sizing and alignment */
-      width: 30px; /* Ensure toggle buttons also have a fixed width */
-      height: 30px; /* Ensure toggle buttons also have a fixed height */
     }
 
     .nav__toggle-close {
@@ -232,13 +230,16 @@
       grid-template-columns: repeat(2, 1fr); /* Single card per row */
     }
 
-    nav{
-      height: 2rem;
-    }
+   
 
     ._card {
       height: 200px; /* Adjust as needed */
     }
+
+    .footer__menu{
+      gap: 0.9rem;
+      font-size: small;
+      }
 
 
    
