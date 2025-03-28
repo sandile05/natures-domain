@@ -250,13 +250,17 @@
   }
 
   .nav__buttons {
-      top: -15px !important;
+      top: -7px !important;
     }
   }
 
   @media screen and (max-width: 339px){
     .explore-container .btn-container .btn{
       font-size: 13px;
+    }
+
+    .nav__buttons {
+      top: -7px !important;
     }
   }
 
