@@ -2,3 +2,1122 @@
 html, css, js online zoo website
 
 This project is based on the original code from my private repository. I have adapted it to focus on a different concept, showcasing land animals. The original project is for a business that is yet to be launched.
+
+## Image Attributions ####
+
+##### AMPHIBIANS #######
+
+**African bullfrog**
+
+   - Author: Steven G. Johnson https://commons.wikimedia.org/wiki/User:Stevenj
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pyxicephalus_adspersus,_Boston_Aquarium.jpg)
+   - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+
+
+   - Author: David J. Stang
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pyxicephalus_adspersus_5zz.jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+   - Author: Michael Rivera https://commons.wikimedia.org/wiki/User:Mjrmtg
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:African_Bullfrog,_Jacksonville_Zoo.jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+   - Author: Dezidor https://cs.wikipedia.org/wiki/Wikipedista:Dezidor
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pyxicephalus_adspersus.jpg)
+   - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+
+-----
+
+**Axolotl**
+
+
+   - Author: Amandasofiarana https://commons.wikimedia.org/w/index.php?title=User:Amandasofiarana&action=edit&redlink=1
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Axolotl_ambystoma_mexicanum_anfibio_ASAG.jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+   - Author: Stan Shebs https://commons.wikimedia.org/wiki/User:Stan_Shebs
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ambystoma_mexicanum_1.jpg)
+   - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+
+
+   - Author: LaDameBucolique https://pixabay.com/users/ladamebucolique-4228283/
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Axolotl-2193331_1280.webp)
+   - License: [CC0 1.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+   -----
+
+ **Common frog**
+   - Author: richard bartz https://commons.wikimedia.org/wiki/User:Richard_Bartz
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria.jpg)
+   - License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
+
+
+   - Author: Monika Betley https://commons.wikimedia.org/w/index.php?title=User:Dixi&action=edit&redlink=1
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dixi-Rana_temporaria.jpg)
+   - License: [CC BY-SA 1.2](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License)
+
+
+   - Author: richard bartz https://commons.wikimedia.org/wiki/User:Richard_Bartz
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria_3.jpg)
+   - License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
+
+
+   - Author: richard bartz https://commons.wikimedia.org/wiki/User:Richard_Bartz
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria_3.jpg)
+   - License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
+
+     -----
+
+
+   - Author: George Chernilevsky https://commons.wikimedia.org/wiki/User:George_Chernilevsky
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bufo_bufo_2015_G3.jpg)
+   - License: [Public domain](https://en.wikipedia.org/wiki/Public_domain)
+
+
+   - Author: https://commons.wikimedia.org/wiki/User:Korall
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bufo_bufo_on_grass2.JPG)
+   - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+
+
+   - Author: https://de.wikipedia.org/wiki/Benutzer:Janekpfeifer
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bufo_bufo_couple_during_migration(2005).jpg)
+   - License: [GNU Free Documentation License](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License)
+
+
+   - Author: Charles J. Sharp https://www.wikidata.org/wiki/Q54800218
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria_3.jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+       -----
+
+ **Dyeing Dart Frog**
+
+
+   - Author: https://commons.wikimedia.org/wiki/User:Llez
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dendrobates_tinctorius_-_Karlsruhe_Zoo_05.jpg)
+   - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+
+
+   - Author: https://commons.wikimedia.org/wiki/User:Korall
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dendrobates_tinctorius_-_Karlsruhe_Zoo_04.jpg)
+   - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
+
+
+   - Author: https://de.wikipedia.org/wiki/Benutzer:Olei
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dendrobates.tinctorius.7037.jpg)
+   - License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
+
+
+   - Author: cliff https://www.flickr.com/photos/28567825@N03
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Poison_Dart_Frog_(Dendrobates_tinctorius).jpg)
+   - License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+
+         -----
+
+**Fire Salamander**
+
+
+   - Author: https://commons.wikimedia.org/wiki/User:PetarM
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fire_salamander_(Salamandra_Salamandra).jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+   - Author: https://commons.wikimedia.org/wiki/User:Almanahe~ukwiki
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_fire_salamander_(Salamandra_salamandra).jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+   - Author: https://commons.wikimedia.org/wiki/User:Snowmanstudios
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bayerischer_Spessart_Naturpark,_Feuersalamander_(Salamandra_salamandra).jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+   - Author: https://commons.wikimedia.org/wiki/User:Ryzhkov_Sergey
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BB%D0%B0%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%B2%D0%BE%D0%B3%D0%BD%D1%8F%D0%BD%D0%B0_(Salamandra_salamandra).jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+           -----
+
+**Green Tree Frog**
+
+   - Author: https://www.inaturalist.org/users/177924
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hyla_cinerea_158051026.jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+   - Author: https://www.inaturalist.org/users/363321
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hyla_cinerea_158997427.jpg)
+   - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
+
+
+   - Author: https://www.inaturalist.org/users/613577
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hyla_cinerea_158861789.jpg)
+   - License: [CC BY-SA 1.0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+
+   - Author: https://www.flickr.com/people/20087733@N00
+   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Green_Tree_Frog_(Hyla_cinerea)_2_(23701964).jpg)
+   - License: [CC BY-SA 2-.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
+
+--------
+
+   🦎 Hellbender (Cryptobranchus alleganiensis)
+
+Author: U.S. Fish and Wildlife Service
+Source: https://commons.wikimedia.org/wiki/File:Eastern_hellbender_salamander_FWS_18501.jpg
+License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+
+Author: Not specified
+Source: https://commons.wikimedia.org/wiki/File:Hellbender_Cryptobranchus_alleganiensis.jpg
+License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+
+Author: Not specified
+Source: https://commons.wikimedia.org/wiki/File:Cryptobranchus_alleganiensis_159117770.jpg
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
+
+
+Author: Not specified
+Source: https://commons.wikimedia.org/wiki/File:Hellbender_at_the_National_Zoo,_Reptile_Discovery_Center.jpg
+License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+---------
+
+🐸 Oriental Fire-Bellied Toad (Bombina orientalis)
+
+-Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Oriental_fire-bellied_toad_(Bombina_orientalis).jpg
+-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+-Author: LA Dawson
+-Source: https://commons.wikimedia.org/wiki/File:Bombina_orientalis.jpg
+-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+-Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Bombina_orientalis_in_water.jpg
+-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+
+-Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Bombina_orientalis_ricepaddy.jpg
+-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+-----
+
+🐸 White’s Tree Frog (Litoria caerulea)
+
+-Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Litoria_caerulea.jpg
+-License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+
+
+-Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Litoria_caerulea_2zz.jpg
+-License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+
+
+-Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Brown-green_litoria_caerulea.jpg
+-License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+
+-Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Litoria_caerulea_4_years_old.jpg
+-License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+
+###### BIRDS ###############
+
+🐦 American Robin (Turdus migratorius)
+
+Author: Dori
+-Source: https://commons.wikimedia.org/wiki/File:Turdus_migratorius_4477.jpg
+-License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Lip Kee
+-Source: https://commons.wikimedia.org/wiki/File:American_robin_(Turdus_migratorius)_-_Flickr_-_Lip_Kee.jpg
+-License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:American_Robin_(Turdus_migratorius)_-_United_States_National_Arboretum.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:American_Robin_(29264054177).jpg
+-License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+🐦 Bald Eagle (Haliaeetus leucocephalus)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:BaldEagle_(Haliaeetus_leucocephalus).jpg
+-License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Gary Leavens
+-Source: https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus_(Bald_Eagle)_109.jpg
+-License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus2.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus_(bald_eagle).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+🐦 Barn Owl (Tyto alba)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Barn_Owl_(Tyto_alba)_image.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Rainbirder
+-Source: https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Barn_Owl_(Tyto_alba).jpg
+-License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Common_Barn-owl_(Tyto_alba)_-_Nonnetjie-uil.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Tyto_alba_-Western_Barn_Owl.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+🐦 Blue Jay (Cyanocitta cristata)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Cyanocitta_cristata_(blue_jay)_(Newark,_Ohio,_USA)_6.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Cyanocitta_cristata_in_my_yard_1.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Cyanocitta_cristata_(blue_jay)_&_Cardinalis_cardinalis_(northern_cardinal)_(Newark,_Ohio,_USA).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Cyanocitta_cristata_(blue_jay)_in_flight.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+🐦 Common Kingfisher (Alcedo atthis)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: J.M.Garg
+-Source: https://commons.wikimedia.org/wiki/File:Common_Kingfisher_(Alcedo_atthis)_-_benghalensis_race_in_an_Indian_Lotus_(Nelumbo_nucifera)_Pond_in_Hyderabad,_AP_W_IMG_7616.jpg
+-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Common_kingfisher_in_flight.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Juvenile_common_kingfishers_(Alcedo_atthis).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+🐦 Emperor Penguin (Aptenodytes forsteri)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_(Emperor_Penguin)_(48718941293).jpg
+-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg
+-License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_(1).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Penguin_in_Antarctica_jumping_out_of_the_water.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+🐦 European Robin (Erithacus rubecula)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:European_robin_(Erithacus_rubecula)_juvenile.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Robin_(Erithacus_rubecula)_-_geograph.org.uk_-_1147783.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:European_Robin_(Erithacus_rubecula)_In_The_Snow.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+🐦 Great Horned Owl (Bubo virginianus)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_(Bubo_virginianus).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_(Bubo_virginianus)_in_Joshua_tree_(Yucca_brevifolia)_near_Black_Rock.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_(Bubo_virginianus)_-_48526543802.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_(Bubo_virginianus)_-_48526543802.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+🐦 Peacock (Pavo cristatus)
+
+Author: Peter Broster
+-Source: https://commons.wikimedia.org/wiki/File:Peacock_(Male),_Indian_Peafowl_or_Blue_Peafowl_(Pavo_cristatus),_Birds_Gallery,_Natural_History_Museum,_London.JPG
+-License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Peacock._(Pavo_cristatus)_(9699918900).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Indian_Peafowl_or_Peacock_(Pavo_cristatus)_(11952911946).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Peacock_(Pavo_cristatus)_-_Natural_History_Museum,_London.JPG
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+🐦 Peregrine Falcon (Falco peregrinus)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Peregrine_falcon_(Falco_peregrinus)_SRI_23.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Falco_peregrinus_-_Cape_Hatteras_National_Seashore.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Falco_peregrinus_in_flight.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Falco_peregrinus_(Peregrine_Falcon)_-_Flickr_-_USFWS.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+
+###### INVERTEBRATES ###
+
+🐜 Ant (Formicidae)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Ant_(1).jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Ant_leg_(250_09)Ant_leg(Formicidae).jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Ant_Nest_(Formicidae)under_a_leaf(8424502964).jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Red_Ant_(Formicidae,Myrmicinae)(23529871061).jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic
+
+-----
+
+🐛 Butterfly (Lepidoptera)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Agraulis_vanillae_1.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Caligo_memnon.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Danaus_plexippus_Monarch_Butterfly.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Papilio_machaon_May_2010-1.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+
+--------
+
+🐛 Centipede
+
+Author: Eric Guinther, Marshman
+-Source: https://commons.wikimedia.org/wiki/File:Centipede.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Vaikoovery
+-Source: https://commons.wikimedia.org/wiki/File:Centipede_1.jpg
+-License: Creative Commons Attribution 3.0 Unported (https://creativecommons.org/licenses/by/3.0/)
+Wikimedia Commons
+
+Author: Katja Schulz
+-Source: https://commons.wikimedia.org/wiki/File:Centipede_(40143779371).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+Wikimedia Commons
+
+Author: Unknown
+-Source: https://commons.wikimedia.org/wiki/File:Insect_centipede.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+Wikimedia Commons
+
+-----
+
+🐛 Earthworm (Lumbricina)
+
+Author: Pearson Scott Foresman
+-Source: https://commons.wikimedia.org/wiki/File:Earthworm_1_(PSF).png
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Fir0002/Flagstaffotos
+-Source: https://commons.wikimedia.org/wiki/File:Earthworm.jpg
+-License: Creative Commons Attribution-NonCommercial 3.0 Unported (https://creativecommons.org/licenses/by-nc/3.0/)
+
+Author: Amazone7
+-Source: https://commons.wikimedia.org/wiki/File:Earthworm_1.jpg
+-License: Creative Commons Attribution 3.0 Unported (https://creativecommons.org/licenses/by/3.0/)
+
+------
+
+🐙 Jellyfish (Scyphozoa)
+
+Author: Katrina Curato
+-Source: https://commons.wikimedia.org/wiki/File:Jellyfish.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Nicola since 1972
+-Source: https://commons.wikimedia.org/wiki/File:Jellyfish_(22155754161).jpg
+-License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Jellyfish_3.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Jeremy Bishop
+-Source: https://commons.wikimedia.org/wiki/File:Jellyfish_underwater_view_(Unsplash).jpg
+-License: CC0 1.0 (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+------
+
+🦞 Lobster (Nephropidae):
+
+Author: Postdlf
+-Source: https://commons.wikimedia.org/wiki/File:Lobster_10.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Matt Johnson
+-Source: https://commons.wikimedia.org/wiki/File:Maine_Lobster.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: LASZLO ILYES
+-Source: https://commons.wikimedia.org/wiki/File:Lobster_(2070607885).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: schooner guest
+-Source: https://commons.wikimedia.org/wiki/File:Lobsters_and_kids.jpeg
+-License: Creative Commons Attribution (https://creativecommons.org/licenses/by/2.0/)
+
+------
+
+🐙 Octopus (Octopus vulgaris)
+
+Author: Comingio Merculiano (1845–1915)
+-Source: https://commons.wikimedia.org/wiki/File:Octopus_vulgaris_Merculiano.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+
+Author: ElinorD
+-Source: https://commons.wikimedia.org/wiki/File:Octopus.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+
+Author: damn_unique
+-Source: https://commons.wikimedia.org/wiki/File:Octopus_tentacles.jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0)
+
+
+Author: Ernst Haeckel (1834–1919)
+-Source: https://commons.wikimedia.org/wiki/File:Octopusvulgaris.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+-------
+
+🦂 Scorpion (Scorpiones)
+
+
+Author: Unknown
+-Source: https://commons.wikimedia.org/wiki/File:Scorpion_insect.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+
+Author: Liz Roy
+-Source: https://commons.wikimedia.org/wiki/File:Scorpion.jpg
+-License: GNU Free Documentation License (https://en.wikipedia.org/wiki/GNU_Free_Documentation_License)
+
+
+Author: Pasixxxx
+-Source: https://commons.wikimedia.org/wiki/File:Scorpion_anatomy.png
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+
+Author: Chrysella
+-Source: https://commons.wikimedia.org/wiki/File:A_scorpion.jpg
+-License: Creative Commons CC0 1.0 Universal Public Domain Dedication (https://creativecommons.org/publicdomain/zero/1.0/deed.en)
+
+------
+
+🕷️ Spider (Araneae)
+
+Author: Mathias Krumbholz
+-Source: https://commons.wikimedia.org/wiki/File:Wet_Spider_01_(MK).jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Zambog
+-Source: https://commons.wikimedia.org/wiki/File:Spider_(45295554922).jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+
+Author: Apu Jaman
+-Source: https://commons.wikimedia.org/wiki/File:Poisonous_spider.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Omegatron
+-Source: https://commons.wikimedia.org/wiki/File:Spider_026.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+-----
+
+🦑 Squid (Teuthida)
+
+Author: Hans Hillewaert
+-Source: https://commons.wikimedia.org/wiki/File:Loligo_vulgaris.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: NASA
+-Source: https://commons.wikimedia.org/wiki/File:Giant_Squid_NASA.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Betty Wills
+-Source: https://commons.wikimedia.org/wiki/File:Squid_colors_2.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: NTNU Vitenskapsmuseet
+-Source: https://commons.wikimedia.org/wiki/File:Giant_squid_Ranheim.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+
+##### MAMMALS #####
+
+🐘 African Elephant (Loxodonta africana)
+
+Author: Gary M. Stolz / U.S. Fish and Wildlife Service
+-Source: https://commons.wikimedia.org/wiki/File:African_elephant.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Muhammad Mahdi Karim
+-Source: https://commons.wikimedia.org/wiki/File:African_Bush_Elephant.jpg
+-License: GNU Free Documentation License 1.2 only (http://www.gnu.org/licenses/old-licenses/fdl-1.2.html)
+
+Author: Gregory Moine
+-Source: https://commons.wikimedia.org/wiki/File:African_Elephant_(loxodonta_africana).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:African_Elephant_(188286877).jpeg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+-----
+
+🐆 Cheetah (Acinonyx jubatus)
+
+Author: William Warby
+-Source: https://commons.wikimedia.org/wiki/File:Cheetah_looking.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Bmajoros
+-Source: https://commons.wikimedia.org/wiki/File:Cheetah-1a.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Erik Damen
+-Source: https://commons.wikimedia.org/wiki/File:Cheetah.JPG
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: su neko
+-Source: https://commons.wikimedia.org/wiki/File:Cheetah_5.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+-----
+
+🐬 Dolphin (Delphinidae)
+
+Author: Cliff from Arlington, Virginia, USA
+-Source: https://commons.wikimedia.org/wiki/File:Dolphins_(2863769659).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: NOAA NMFS
+-Source: https://commons.wikimedia.org/wiki/File:Common_dolphin_noaa.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: sheilapic76
+-Source: https://commons.wikimedia.org/wiki/File:Dolphind.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Rodrigo.Argenton
+-Source: https://commons.wikimedia.org/wiki/File:Dolphin_Portrait_(120780437).jpeg
+-License: Creative Commons Attribution 3.0 Unported (https://creativecommons.org/licenses/by/3.0/)
+
+-----
+
+🦒 Giraffe (Giraffa camelopardalis)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Giraffe.JPG
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Giraffe_standing.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Three_giraffes_01.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Giraffes_(Giraffa_camelopardalis)_browsing.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+-----
+
+🐻 Grizzly Bear (Ursus arctos horribilis)
+
+Author: U.S. Fish and Wildlife Service
+-Source: https://commons.wikimedia.org/wiki/File:Grizzly_bears_animal_wildlife.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: U.S. Fish and Wildlife Service
+-Source: https://commons.wikimedia.org/wiki/File:Grizzly_bear_on_a_rock_overlooking.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: MrPanyGoff
+-Source: https://commons.wikimedia.org/wiki/File:Grizzly_bear_-_Ursus_arctos_horribilis.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Ashley98lee
+-Source: https://commons.wikimedia.org/wiki/File:Wild_Grizzly_Bear.jpg
+-License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)
+
+-----
+
+🐆 Jaguar (Panthera onca)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Jaguar%2C_Panthera_Onca.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Rio_Negro_2.JPG
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_male_Three_Brothers_River_2.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Jaguar_(Panthera_onca_palustris)_female_Piquiri_River_2.JPG
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+-----
+
+🦘 Kangaroo (Macropodidae)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Kangaroo.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Fir0002/Flagstaffotos
+-Source: https://commons.wikimedia.org/wiki/File:Kangaroo_and_joey.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Kangaroo_au.jpeg
+-License: Creative Commons Attribution-Share Alike 1.0 Generic (https://creativecommons.org/licenses/by-sa/1.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Kangaroo_Portrait_(6754298445).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+-----
+
+🐆 Leopard (Panthera pardus)
+
+Author: Abhistar.ss3
+-Source: https://commons.wikimedia.org/wiki/File:LEOPARD.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Gil Hidalgo
+-Source: https://commons.wikimedia.org/wiki/File:Amur_leopard.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Andrew Shiva
+-Source: https://commons.wikimedia.org/wiki/File:African_leopard_(Panthera_pardus).jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Tamar Assaf
+-Source: https://commons.wikimedia.org/wiki/File:Persian_Leopard_sitting.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+-----
+
+🦁 Lion (Panthera leo)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Lion_d%27Afrique.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Panthera_leo_-_Lioness_in_Masai_Mara_National_Reserve.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Male_Lion_in_the_Masai_Mara.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Lion_in_the_Masai_Mara.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+-----
+
+🐻‍❄️ Polar Bear (Ursus maritimus)
+
+Author: Alan Wilson
+-Source: https://commons.wikimedia.org/wiki/File:Polar_Bear_-_Alaska.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: U.S. Fish and Wildlife Service
+-Source: https://commons.wikimedia.org/wiki/File:Polar_Bear.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Polar_Bear_(8803969278).jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Polar_bear_under_water.jpg
+-License: Creative Commons Attribution-Share Alike 2.5 Generic (https://creativecommons.org/licenses/by-sa/2.5/)
+
+-----
+
+🦊 Red Fox (Vulpes vulpes)
+
+Author: Ken Billington
+-Source: https://commons.wikimedia.org/wiki/File:Red_Fox_(Vulpes_vulpes)_(4).jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Ken Billington
+-Source: https://commons.wikimedia.org/wiki/File:Red_Fox_(Vulpes_vulpes)_(7).jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Normalityrelief
+-Source: https://commons.wikimedia.org/wiki/File:Red_fox_image.jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+
+Author: Keven Law
+-Source: https://commons.wikimedia.org/wiki/File:Red_Fox_(Vulpes_vulpes)_-British_Wildlife_Centre-8.jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+
+-----
+
+🐆 Snow Leopard (Panthera uncia)
+
+Author: Ron Singer, U.S. Fish and Wildlife Service
+-Source: https://commons.wikimedia.org/wiki/File:Snow_leopard.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Eric Kilby
+-Source: https://commons.wikimedia.org/wiki/File:Snow_leopard%27s_rosettes.jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+
+Author: Ber'Zophus
+-Source: https://commons.wikimedia.org/wiki/File:Snow_Leopard,_Sleeping.jpg
+-License: Creative Commons Attribution-Share Alike 2.5 Generic (https://creativecommons.org/licenses/by-sa/2.5/)
+
+Author: Aneta p
+-Source: https://commons.wikimedia.org/wiki/File:Snow_leopard,_ZOO_in_Cracow.jpg
+-License: Creative Commons Attribution 4.0 International (https://creativecommons.org/licenses/by/4.0/)
+
+-----
+
+🐯 Tiger (Panthera tigris)
+
+Author: Amoghavarsha
+-Source: https://commons.wikimedia.org/wiki/File:Panthera_tigris,_2017.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Bernard Landgraf
+-Source: https://commons.wikimedia.org/wiki/File:Panthera_tigris.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Babirusa
+-Source: https://commons.wikimedia.org/wiki/File:Tiger-zoologie.de0001_22.JPG
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: TanmayHaldar
+-Source: https://commons.wikimedia.org/wiki/File:Panthera_Tigris(Tigress)_Collerwali_Pench.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+-----
+
+🐺 Wolf (Canis lupus)
+
+Author: Volker.G
+-Source: https://commons.wikimedia.org/wiki/File:Wolf.jpg
+-License: Creative Commons Attribution 3.0 Unported (https://creativecommons.org/licenses/by/3.0/)
+
+Author: Fool4myCanon
+-Source: https://commons.wikimedia.org/wiki/File:Howling_wolf.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Caninest
+-Source: https://commons.wikimedia.org/wiki/File:Wolf_(4394675343).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Wolf_610.JPG
+-License: Creative Commons Attribution-Share Alike 2.5 Generic (https://creativecommons.org/licenses/by-sa/2.5/)
+
+##### REPTILES ####
+
+🐊 American Alligator (Alligator mississippiensis)
+
+Author: Postdlf
+-Source: https://commons.wikimedia.org/wiki/File:American_Alligator.jpg
+-License: GNU Free Documentation License (https://www.gnu.org/licenses/fdl-1.2.html)
+
+Author: Gmunson
+-Source: https://commons.wikimedia.org/wiki/File:American_Alligator_(Alligator_Mississippiensis).jpg
+-License: Creative Commons Attribution-Share Alike 1.0 Generic (https://creativecommons.org/licenses/by-sa/1.0/)
+
+Author: Ken Thomas
+-Source: https://commons.wikimedia.org/wiki/File:American_Alligator-27527-3.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: James St. John
+-Source: https://commons.wikimedia.org/wiki/File:Alligator_mississippiensis_(American_alligator)_1_(15729152912).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+-----
+
+🐊 American Alligator (Alligator mississippiensis)
+
+Author: Postdlf
+-Source: https://commons.wikimedia.org/wiki/File:American_Alligator.jpg
+-License: GNU Free Documentation License (https://www.gnu.org/licenses/fdl-1.2.html)
+
+Author: Gmunson
+-Source: https://commons.wikimedia.org/wiki/File:American_Alligator_(Alligator_Mississippiensis).jpg
+-License: Creative Commons Attribution-Share Alike 1.0 Generic (https://creativecommons.org/licenses/by-sa/1.0/)
+
+Author: Ken Thomas
+-Source: https://commons.wikimedia.org/wiki/File:American_Alligator-27527-3.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: James St. John
+-Source: https://commons.wikimedia.org/wiki/File:Alligator_mississippiensis_(American_alligator)_1_(15729152912).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+-----
+
+🐍 Ball Python (Python regius)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Ball_Python_(Python_regius).jpg
+-License: Public Domain (https://creativecommons.org/publicdomain/zero/1.0/)
+
+Author: Mokele
+-Source: https://commons.wikimedia.org/wiki/File:Ball_python_lucy.JPG
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Lisaw123
+-Source: https://commons.wikimedia.org/wiki/File:Ball_python_and_rock.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: WingedWolfPsion
+-Source: https://commons.wikimedia.org/wiki/File:Ball_Python_After_Laying.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+-----
+
+🦎 Bearded Dragon (Pogona vitticeps)
+
+Author: André Karwath aka Aka
+-Source: https://commons.wikimedia.org/wiki/File:Bearded_Dragon_-_close-up.jpg
+-License: Creative Commons Attribution-Share Alike 2.5 Generic (https://creativecommons.org/licenses/by-sa/2.5/)
+
+Author: Gary M. Stolz, U.S. Fish and Wildlife Service
+-Source: https://commons.wikimedia.org/wiki/File:Bearded_dragon_lizard.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: MatthewCollins887
+-Source: https://commons.wikimedia.org/wiki/File:Bearded_Dragon_with_beard_out.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Steve Jurvetson
+-Source: https://commons.wikimedia.org/wiki/File:Australian_bearded_dragon.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+-----
+
+🦎 Chameleon (Chamaeleonidae)
+
+Author: Syrio
+-Source: https://commons.wikimedia.org/wiki/File:Chamaeleo_calyptratus_Esapolis_01.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Ursula Franke
+-Source: https://commons.wikimedia.org/wiki/File:Chamaeleo_dilepis,_Hobatere.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: B.navez
+-Source: https://commons.wikimedia.org/wiki/File:FurciferPardalisMale.JPG
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Andrew massyn
+-Source: https://commons.wikimedia.org/wiki/File:Bradypodion_pumilum.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+-----
+
+🐢 Common Snapping Turtle (Chelydra serpentina)
+
+Author: D. Gordon E. Robertson
+-Source: https://commons.wikimedia.org/wiki/File:Common_Snapping_Turtle.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Chitrapa
+-Source: https://commons.wikimedia.org/wiki/File:Common_Snapping_Turtle_in_Minnesota.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Mjbaker
+-Source: https://commons.wikimedia.org/wiki/File:Common_Snapping_Turtle_1429.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Sam Stukel/USFWS
+-Source: https://commons.wikimedia.org/wiki/File:Juvenile_common_snapping_turtle_(51238171387).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+-----
+
+🦎 Gila Monster (Heloderma suspectum)
+
+Author: Theo Kruse / Burgers' Zoo
+-Source: https://commons.wikimedia.org/wiki/File:Gila_monster_(Heloderma_suspectum).jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Jeff Servoss, U.S. Fish and Wildlife Service
+-Source: https://commons.wikimedia.org/wiki/File:Reticulate_Gila_Monster.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Blueag9
+-Source: https://commons.wikimedia.org/wiki/File:Gila_monster2.JPG
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: Arpingstone
+-Source: https://commons.wikimedia.org/wiki/File:Gila.monster.arp.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+-----
+
+🐍 Green Anaconda (Eunectes murinus)
+
+Author: William Warby
+-Source: https://commons.wikimedia.org/wiki/File:Green_Anaconda_(20914109104).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Bernard DUPONT
+-Source: https://commons.wikimedia.org/wiki/File:Green_Anaconda_(Eunectes_murinus)_neonate_(24914481597).jpg
+-License: Creative Commons Attribution-Share Alike 2.0 Generic (https://creativecommons.org/licenses/by-sa/2.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Green-anaconda.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Green_Anaconda_-_Parana_Madeirinha_-_AZ.JPG
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+-----
+
+🦎 Komodo Dragon (Varanus komodoensis)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Komodo_dragon_(Varanus_komodoensis).jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Not specified
+-Source: https://commons.wikimedia.org/wiki/File:Komodo_dragons_(Varanus_komodoensis)_fighting.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Thomas Hirsch
+-Source: https://commons.wikimedia.org/wiki/File:Komodo-dragon-1.jpg
+-License: Creative Commons Attribution-Share Alike 3.0 Unported (https://creativecommons.org/licenses/by-sa/3.0/)
+
+Author: David Stanley
+-Source: https://commons.wikimedia.org/wiki/File:Komodo_Dragon_(48135360558).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+----
+
+🐢 Leatherback Sea Turtle (Dermochelys coriacea)
+
+Author: Helmy Oved
+-Source: https://commons.wikimedia.org/wiki/File:Leatherback_Sea_Turtle_(17665415746).jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: Taragui
+-Source: https://commons.wikimedia.org/wiki/File:LeatherbackTurtle.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Al Woodson, USFWS volunteer
+-Source: https://commons.wikimedia.org/wiki/File:Leatherback_sea_turtle_on_the_beach_Tinglar_(5839996429).jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: Scott R. Benson, NMFS Southwest Fisheries Science Center
+-Source: https://commons.wikimedia.org/wiki/File:Leatherback_sea_turtle_benson_swfsc.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+-----
+
+🦎 Tokay Gecko (Gekko gecko)
+
+Author: Chamberlain of Nilai
+-Source: https://commons.wikimedia.org/wiki/File:Tokay_gecko.jpg
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
+
+Author: Nick Hobgood
+-Source: https://commons.wikimedia.org/wiki/File:Tokay.jpg
+-License: Creative Commons Attribution 2.0 Generic (https://creativecommons.org/licenses/by/2.0/)
+
+Author: BacLuong
+-Source: https://commons.wikimedia.org/wiki/File:Tokay_gecko_%40Vnm.jpg
+-License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
+
+Author: PumpkinSky
+-Source: https://commons.wikimedia.org/wiki/File:Tokay_gecko_in_Tak.JPG
+-License: Creative Commons Attribution-Share Alike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/)
