@@ -253,7 +253,7 @@ nav h4{
 #hero{
   position: relative;
   height: 100vh; /* Full screen height */
-  background-image: url('../assets/mammals/african-elephant-1.webp');
+  background-image: url('https://res.cloudinary.com/dmko00n6s/image/upload/v1746548305/lion-2_zvdtmn.webp');
   background-size: cover;
   background-position: center;
   display: flex;
