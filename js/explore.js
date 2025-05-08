@@ -1364,7 +1364,28 @@ const cardData = [
         openModal(cards[index]);
       });
     });
+
+    observeCards();
   }
+
+  function observeCards() {
+    const cards = document.querySelectorAll("._card");
+  
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add("in-view");
+          // unobserve after it's visible once
+          observer.unobserve(entry.target);
+        }
+      });
+    }, {
+      threshold: 0.3, 
+    });
+  
+    cards.forEach(card => observer.observe(card));
+  }
+  
   
   // Function to open the modal
 function openModal(card) {
