@@ -1,12 +1,5 @@
 @import url('styles.css');
 
-
-  
-
-  
-  
-
-
 @media screen and (max-width: 1200x) {
     section{
       padding-bottom: 80px;
@@ -161,7 +154,7 @@
   }
   .swiper.mySwiperTop {
    
-    height: 270px;
+    height: 230px;
 }
 }
 
