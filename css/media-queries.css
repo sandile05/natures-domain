@@ -190,16 +190,9 @@
       font-size: 1.1rem;
     }
 
-    .blog-preview {
-      margin: 0 0 5px;
-      font-size: 0.7em; /* Smaller font size */
-      line-height: 1.1;
-    }
+    
 
-    .blog-meta {
-      font-size: 0.65em;
-      opacity: 0.65;
-    }
+  
 
     .footer__socials{
       margin-top: 0.8rem;
@@ -226,7 +219,7 @@
    
 
     ._card {
-      height: 200px; /* Adjust as needed */
+      height: 200px; 
     }
 
     .footer__menu{

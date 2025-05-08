@@ -359,7 +359,7 @@ section {
   transition: transform 0.3s ease, box-shadow 0.3s ease;
   background-size: cover;
   background-position: center;
-  height: 250px; /* Adjust as needed */
+  height: 250px !important; 
 }
 
 /* Overlay */
@@ -705,5 +705,11 @@ section {
   cursor: pointer;
 }
 
+@media (max-width: 768px) {
+  section{
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+  }
+}
 
 
