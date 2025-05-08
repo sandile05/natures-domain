@@ -655,18 +655,18 @@ footer{
 /* styles.css */
 
 #backToTop {
-  position: fixed; /* Fixed position */
-  bottom: 45px; /* 20px from the bottom */
-  right: 20px; /* 20px from the right */
-  padding: 10px 15px; /* Some padding */
-  background-color: var(--light-gray); /* Button color */
-  color: var(--color-2); /* Text color */
-  border: none; /* No border */
-  border-radius: 5px; /* Rounded corners */
-  cursor: pointer; /* Pointer cursor on hover */
+  position: fixed; 
+  bottom: 45px;
+  right: 20px; 
+  padding: 10px 15px; 
+  background-color: var(--light-gray);
+  color: var(--color-2); 
+  border: none; 
+  border-radius: 5px; 
+  cursor: pointer; 
   z-index: 1000; /* Make sure it stays on top of other elements */
   opacity: 0; /* Initially hidden */
-  transition: var(--transition); /* Smooth transition */
+  transition: var(--transition); 
 }
 
 #backToTop.visible {
@@ -674,7 +674,7 @@ footer{
 }
 
 .hidden {
-  display: none; /* Completely hide the button */
+  display: none; 
 }
 
 #backToTop:hover{
