@@ -155,7 +155,6 @@ document.addEventListener('DOMContentLoaded', () => {
         }
       });
 
-
       const swiperCards = new Swiper('.swiper-cards-container', {
         effect: 'cards', // Use the 'cards' effect
         grabCursor: true, // Allows the user to drag/swipe
