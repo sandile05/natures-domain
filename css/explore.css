@@ -1,5 +1,10 @@
 @import url('styles.css'); 
 
+section {
+  padding-top: 10px; 
+  padding-bottom: 10px;
+}
+
 .nav__theme-btn{
   color: var(--color-6);
 }
