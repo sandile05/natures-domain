@@ -340,8 +340,6 @@ section {
   }
 
 
-
-
   ._card_container {
     display: grid;
       grid-template-columns: repeat(3, 1fr); /* Three cards per row */

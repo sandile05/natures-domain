@@ -603,6 +603,7 @@ section#quote{
 footer{
   background: var(--color-3);
   padding-top: 2rem;
+  margin-top: 25px;
   }
 
   .footer__menu{
