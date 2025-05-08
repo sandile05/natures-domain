@@ -56,10 +56,10 @@ html, body {
   background: transparent;
 }
 ::-webkit-scrollbar-thumb{
-  background: var(--color-2);
+  background: var(--color-3);
 }
 ::-webkit-scrollbar-thumb:hover{
-  background: var(--color-3);
+  background: var(--color-7);
 }
 
 /* base styles  */
