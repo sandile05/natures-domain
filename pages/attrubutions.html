@@ -4,18 +4,21 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
   <title>Attributions</title>
+  <link rel="stylesheet" href="../css/styles.css">
   <style>
     body {
       font-family: sans-serif;
       margin: 2rem;
       background: #FAF3E0;
       color: #333;
+      padding-top: 20px;
     }
 
     h1 {
       text-align: center;
-      font-size: 2rem;
+      font-size: 1.5rem;
       margin-bottom: 1.5rem;
+      padding-top: 1rem;
       color: #2C5F2D;
     }
 /* Global Attribution Page Styles */
@@ -64,10 +67,22 @@
   text-decoration: underline;
 }
 
+main .btn{
+    top: 10px;
+}
+
   </style>
 </head>
 <body>
-  <main class="container">
+    <nav>
+        <div class="nav__container">
+            <a href="#" class="nav__logo">
+                <h4>Nature’s Domain</h4>
+            </a>
+        </div>
+    </nav>
+  <main>
+    <button class="back-btn btn" onclick="goBack()">Go Back</button>
     <h1>Attributions</h1>
 
 
@@ -146,5 +161,12 @@
       </div>
       
   </main>
+
+  <script>
+    // Function to go back to the previous page
+    function goBack() {
+      window.history.back();
+    }
+  </script>
 </body>
 </html>

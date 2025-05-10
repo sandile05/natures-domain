@@ -131,7 +131,6 @@ p{
 }
 
 .btn-2{
-  background-color: var();
   border: 2px solid var(--light-gray);
 }
 
@@ -676,10 +675,14 @@ footer{
   color: var(--color-6)
 }
 
+.attributions{
+  margin-top: 30px;
+}
 .attributions a{
-  padding: 20px;
+  padding: 0 30px;
   color: var(--color-2);
   text-decoration: underline;
+  font-size: smaller;
 }
 
 .attributions a:hover{
