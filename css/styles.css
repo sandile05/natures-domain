@@ -63,11 +63,7 @@ html, body {
 }
 
 /* base styles  */
-
-
-
 body{
-    
     font-weight: 400;
     font-size: 1.8rem;
     background: var(--light-bg);
@@ -75,11 +71,9 @@ body{
 }
 
 section{
-  padding-top: 50px;
-  padding-bottom: 50px;
+  padding-top: 20px;
+  padding-bottom: 30px;
 }
-
-
 
 h1{
     font-weight: 500;

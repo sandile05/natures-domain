@@ -154,7 +154,11 @@
   }
   .swiper.mySwiperTop {
    
-    height: 230px;
+    height: 210px;
+}
+
+section#quote{
+  padding-top: 0 !important;
 }
 }
 
@@ -228,6 +232,10 @@
       }
 
 
+      .swiper.mySwiperTop {
+   
+        height: 260px !important;
+    }
    
   }
 

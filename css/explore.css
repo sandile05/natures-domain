@@ -70,7 +70,7 @@ section {
     font-size: 1em;
     font-weight: bold;
     text-align: center;
-    line-height: 1.5;
+    line-height: 1;
 }
 
 /* Wrapper for Explore Section */
@@ -78,7 +78,7 @@ section {
     width: 95%;
     max-width: 1000px;
     margin: auto;
-    padding: 20px 0;
+    padding: 20px 0 0;
     position: relative;
 }
 
@@ -170,6 +170,7 @@ section {
 }
 
 /* Video Styles */
+
 .video video {
     width: 100%;
     height: auto;
@@ -211,15 +212,17 @@ section {
     position: absolute;
     top: 5px;
     right: 20px;
-    font-size: 50px;
+    font-size: 20px;
     color: red;
     font-weight: bolder;
     cursor: pointer;
     z-index: 100;
+    height: 10px;
 }
 
-section.explore_quote{
-  padding-top: 0 !important;
+section .explore_quote p{
+  top: -35px !important;
+  padding-bottom: 20px;
 }
 
 
@@ -557,6 +560,7 @@ section.explore_quote{
   font-size: 1.5rem;
   cursor: pointer;
   top: -20px;
+  color: red;
 }
 
 /* Modal body */
@@ -706,12 +710,4 @@ section.explore_quote{
   border: none;
   cursor: pointer;
 }
-
-@media (max-width: 768px) {
-  section{
-    padding-top: 0 !important;
-    padding-bottom: 0 !important;
-  }
-}
-
 
