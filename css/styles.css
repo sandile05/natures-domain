@@ -675,3 +675,13 @@ footer{
   background-color: var(--color-3);
   color: var(--color-6)
 }
+
+.attributions a{
+  padding: 20px;
+  color: var(--color-2);
+  text-decoration: underline;
+}
+
+.attributions a:hover{
+  color: var(--color-6);
+}
