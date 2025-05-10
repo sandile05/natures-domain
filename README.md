@@ -65,9 +65,6 @@ This project is based on the original code from my private repository. I have ad
    - License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
 
 
-   - Author: richard bartz https://commons.wikimedia.org/wiki/User:Richard_Bartz
-   - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria_3.jpg)
-   - License: [CC BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/deed.en)
 
      -----
 
