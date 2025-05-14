@@ -51,10 +51,10 @@
                     </p>
                 </div>
 
-                <div id="socials-container" data-aos="fade-in" data-aos-delay="350">
+                <!-- <div id="socials-container" data-aos="fade-in" data-aos-delay="350">
                     <li><a href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
                         <li><a href="https://tiktok.com/" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
-                  </div>
+                  </div> -->
                 <div class="arrow-down" data-aos="fade-down" data-aos-delay="300" data-aos-duration="1500">
                     <a href="#quote"><i class="fa-solid fa-arrow-down fa-beat-fade"></i></a>
                 </div>
@@ -165,7 +165,7 @@
               <div class="contact-container" data-aos="fade-in" data-aos-delay="300">
                 <form class="contact-form" action="https://formsubmit.co/naturesdomain1@gmail.com" method="POST">
                   <input type="hidden" name="_subject" value="New Contact Form Submission">
-                  <input type="hidden" name="_captcha" value="false">
+                  <input type="hidden" name="_captcha" value="true">
                   
           
                   <input type="text" name="name" placeholder="Name" required>
@@ -191,12 +191,12 @@
                 <li><a href="./pages/gallery.html">Gallery</a></li>
                 
             </ul>
-            <ul class="footer__socials" data-aos="fade-up" data-aos-delay="200">
+            <!-- <ul class="footer__socials" data-aos="fade-up" data-aos-delay="200">
                 <li><a href="https://youtube.com" target="_blank"><i class="fa-brands fa-youtube"></i></a></li>
                 <li><a href="https://pinterest.com/" target="_blank"><i class="fa-brands fa-pinterest"></i></a></li>
                 <li><a href="https://instagram.com/" target="_blank"><i class="fa-brands fa-instagram"></i></a></li>
                 <li><a href="https://tiktok.com/" target="_blank"><i class="fa-brands fa-tiktok"></i></a></li>
-            </ul>
+            </ul> -->
         </div>
         <div class="footer__copyright">
             <small>2025 Nature's Domain &copy; All Rights reserved.</small>
@@ -206,31 +206,6 @@
 <!-- Back to Top Button -->
 <button id="backToTop" class="hidden"><i class="fa-solid fa-up-long"></i></button>
 
-<script>
-    document.querySelector('.contact-form').addEventListener('submit', async function(e) {
-      e.preventDefault(); // Stop default form submission
-  
-      const form = e.target;
-      const formData = new FormData(form);
-  
-      try {
-        const response = await fetch(form.action, {
-          method: form.method,
-          body: formData,
-          headers: { 'Accept': 'application/json' }
-        });
-  
-        if (response.ok) {
-          alert("✅ Message sent successfully!");
-          form.reset(); // Clear the input fields
-        } else {
-          alert("❌ Failed to send message. Please try again.");
-        }
-      } catch (error) {
-        alert("⚠️ Error: " + error.message);
-      }
-    });
-  </script>
     <script src="https://cdn.jsdelivr.net/npm/swiper@11/swiper-bundle.min.js"></script>
     <script src="https://unpkg.com/aos@next/dist/aos.js"></script>
     <script>
