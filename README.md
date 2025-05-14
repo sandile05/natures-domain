@@ -88,21 +88,19 @@ This project is based on the original code from my private repository. I have ad
    - License: [Public domain](https://en.wikipedia.org/wiki/Public_domain)
 
 
-   - Title: Bufo bufo on grass2.JPG
-
+   - Title: Bufo bufo on grass2.JPG`
    - Author: https://commons.wikimedia.org/wiki/User:Korall
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bufo_bufo_on_grass2.JPG)
    - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
 
 
-   - Title: 
+   - Title: Bufo bufo couple during migration(2005).jpg
    - Author: https://de.wikipedia.org/wiki/Benutzer:Janekpfeifer
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bufo_bufo_couple_during_migration(2005).jpg)
    - License: [GNU Free Documentation License](https://en.wikipedia.org/wiki/GNU_Free_Documentation_License)
 
 
-   - Title: Bufo bufo couple during migration(2005).jpg
-
+   - Title: European Common Frog Rana temporaria 3.jpg
    - Author: Charles J. Sharp https://www.wikidata.org/wiki/Q54800218
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:European_Common_Frog_Rana_temporaria_3.jpg)
    - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
@@ -113,7 +111,6 @@ This project is based on the original code from my private repository. I have ad
 
 
    - Title:  Dendrobates tinctorius - Karlsruhe Zoo 05.jpg
-
    - Author: https://commons.wikimedia.org/wiki/User:Llez
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dendrobates_tinctorius_-_Karlsruhe_Zoo_05.jpg)
    - License: [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/deed.en)
@@ -132,7 +129,6 @@ This project is based on the original code from my private repository. I have ad
 
 
    - Title: Dart Frog (Dendrobates tinctorius).jpg
-
    - Author: cliff https://www.flickr.com/photos/28567825@N03
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Poison_Dart_Frog_(Dendrobates_tinctorius).jpg)
    - License: [CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
@@ -143,7 +139,6 @@ This project is based on the original code from my private repository. I have ad
 
 
   - Title: Fire salamander (Salamandra Salamandra).jpg
-
    - Author: https://commons.wikimedia.org/wiki/User:PetarM
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fire_salamander_(Salamandra_Salamandra).jpg)
    - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
@@ -162,7 +157,6 @@ This project is based on the original code from my private repository. I have ad
 
 
    - Title: Саламандра вогняна (Salamandra salamandra).jpg
-
    - Author: https://commons.wikimedia.org/wiki/User:Ryzhkov_Sergey
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%D0%A1%D0%B0%D0%BB%D0%B0%D0%BC%D0%B0%D0%BD%D0%B4%D1%80%D0%B0_%D0%B2%D0%BE%D0%B3%D0%BD%D1%8F%D0%BD%D0%B0_(Salamandra_salamandra).jpg)
    - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
@@ -179,7 +173,6 @@ This project is based on the original code from my private repository. I have ad
 
 
    - Title: Hyla cinerea 158051026.jpg
-
    - Author: https://www.inaturalist.org/users/363321
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hyla_cinerea_158997427.jpg)
    - License: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/deed.en)
@@ -192,7 +185,6 @@ This project is based on the original code from my private repository. I have ad
 
 
    - Title: Green Tree Frog (Hyla cinerea) 2 (23701964).jpg
-
    - Author: https://www.flickr.com/people/20087733@N00
    - Source: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Green_Tree_Frog_(Hyla_cinerea)_2_(23701964).jpg)
    - License: [CC BY-SA 2-.0](https://creativecommons.org/licenses/by-sa/2.0/deed.en)
@@ -208,21 +200,18 @@ License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
 
 - Title: Hellbender Cryptobranchus alleganiensis.jpg
-
 Author: Brian Gratwicke
 Source: https://commons.wikimedia.org/wiki/File:Hellbender_Cryptobranchus_alleganiensis.jpg
 License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
 
 - Title: Cryptobranchus alleganiensis 159117770.jpg
-
 Author: Kristof Zyskowski
 Source: https://commons.wikimedia.org/wiki/File:Cryptobranchus_alleganiensis_159117770.jpg
 License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)
 
 
 - Title: Hellbender at the National Zoo, Reptile Discovery Center.jpg
-
 Author: brian.gratwicke
 Source: https://commons.wikimedia.org/wiki/File:Hellbender_at_the_National_Zoo,_Reptile_Discovery_Center.jpg
 License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
@@ -238,14 +227,12 @@ License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
 
 - Title: Bombina orientalis.jpg
-
 -Author: LA Dawson
 -Source: https://commons.wikimedia.org/wiki/File:Bombina_orientalis.jpg
 -License: CC BY-SA 4.0 (httpks://creativecommons.org/licenses/by-sa/4.0/)
 
 
 - Title: Bombina orientalis in water.jpg
-
 -Author: Daniel Ballmer
 -Source: https://commons.wikimedia.org/wiki/File:Bombina_orientalis_in_water.jpg
 -License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
@@ -261,14 +248,12 @@ License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 🐸 White’s Tree Frog (Litoria caerulea)
 
 - Title: Litoria caerulea.jpg
-
 -Author: User:LiquidGhoul 
 -Source: https://commons.wikimedia.org/wiki/File:Litoria_caerulea.jpg
 -License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
 
 - Title: Litoria caerulea 2zz.jpg
-
 -Author: David J. Stang
 -Source: https://commons.wikimedia.org/wiki/File:Litoria_caerulea_2zz.jpg
 -License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
@@ -289,144 +274,144 @@ File
 
 🐦 American Robin (Turdus migratorius)
 
-- Title: 
+- Title: Turdus migratorius 4477.jpg
 Author: Dori
 -Source: https://commons.wikimedia.org/wiki/File:Turdus_migratorius_4477.jpg
 -License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-- Title: 
+- Title: American robin (Turdus migratorius) - Flickr - Lip Kee.jpg
 Author: Lip Kee
 -Source: https://commons.wikimedia.org/wiki/File:American_robin_(Turdus_migratorius)_-_Flickr_-_Lip_Kee.jpg
 -License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-- Title: 
+- Title: American Robin (Turdus migratorius) - United States National Arboretum.jpg
 Author: Cliff
 -Source: https://commons.wikimedia.org/wiki/File:American_Robin_(Turdus_migratorius)_-_United_States_National_Arboretum.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: American Robin (29264054177).jpg
 Author: 	Michel Rathwell
 -Source: https://commons.wikimedia.org/wiki/File:American_Robin_(29264054177).jpg
 -License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
 🐦 Bald Eagle (Haliaeetus leucocephalus)
 
-- Title: 
+- Title: BaldEagle (Haliaeetus leucocephalus).jpg
 Author: Gregory Moine
 -Source: https://commons.wikimedia.org/wiki/File:BaldEagle_(Haliaeetus_leucocephalus).jpg
 -License: CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0/)
 
-- Title: 
+- Title: Haliaeetus leucocephalus (Bald Eagle) 109.jpg
 Author: Gary Leavens
 -Source: https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus_(Bald_Eagle)_109.jpg
 -License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-- Title: 
+- Title: Haliaeetus leucocephalus2.jpg
 Author: David Menke
 -Source: https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus2.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Haliaeetus leucocephalus (bald eagle).jpg
 Author: James St. John
 -Source: https://commons.wikimedia.org/wiki/File:Haliaeetus_leucocephalus_(bald_eagle).jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
 🐦 Barn Owl (Tyto alba)
 
-- Title: 
+- Title: Barn Owl (Tyto alba) image.jpg
 Author: Tim Sträter
 -Source: https://commons.wikimedia.org/wiki/File:Barn_Owl_(Tyto_alba)_image.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Flickr - Rainbirder - Barn Owl (Tyto alba).jpg
 Author: Steve Garvie
 -Source: https://commons.wikimedia.org/wiki/File:Flickr_-_Rainbirder_-_Barn_Owl_(Tyto_alba).jpg
 -License: CC BY 2.0 (https://creativecommons.org/licenses/by/2.0/)
 
-- Title: 
+- Title: Common Barn-owl (Tyto alba) - Nonnetjie-uil.jpg
 Author: Ossewa
 -Source: https://commons.wikimedia.org/wiki/File:Common_Barn-owl_(Tyto_alba)_-_Nonnetjie-uil.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Tyto alba tylluan wen.jpg
 Author: Alun Williams333
 -Source: https://commons.wikimedia.org/wiki/File:Tyto_alba_tylluan_wen.jpg
 -License: Attribution-ShareAlike 4.0 International (https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 🐦 Blue Jay (Cyanocitta cristata)
 
-- Title: 
+- Title: Cyanocitta cristata (blue jay) (Newark, Ohio, USA) 6.jpg
 Author: James St. John
 -Source: https://commons.wikimedia.org/wiki/File:Cyanocitta_cristata_(blue_jay)_(Newark,_Ohio,_USA)_6.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Cyanocitta cristata in my yard 1.jpg
 Author: 	Sixflashphoto
 -Source: https://commons.wikimedia.org/wiki/File:Cyanocitta_cristata_in_my_yard_1.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Cyanocitta cristata (blue jay) & Cardinalis cardinalis (northern cardinal) (Newark, Ohio, USA).jpg
 Author: 	James St. John
 -Source: https://commons.wikimedia.org/wiki/File:Cyanocitta_cristata_(blue_jay)_&_Cardinalis_cardinalis_(northern_cardinal)_(Newark,_Ohio,_USA).jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: 20231108 blue jay goodwin dock PND08986.jpg
 Author: Paul Danese
 -Source: https://commons.wikimedia.org/wiki/File:20231108_blue_jay_goodwin_dock_PND08986.jpg
 -License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/deed.en)
 
 🐦 Common Kingfisher (Alcedo atthis)
 
-- Title: 
+- Title: Common Kingfisher Alcedo atthis.jpg
 Author: Andreas Trepte
 -Source: https://commons.wikimedia.org/wiki/File:Common_Kingfisher_Alcedo_atthis.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: File:Common king fisher at sattal.jpg
 Author: Dr deepak rastogi
 -Source: https://commons.wikimedia.org/wiki/File:Common_king_fisher_at_sattal.jpg
 -License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-- Title: 
+- Title: Common kingfisher in flight.jpg
 Author: Prasan Shrestha
 -Source: https://commons.wikimedia.org/wiki/File:Common_kingfisher_in_flight.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Juvenile common kingfishers (Alcedo atthis).jpg
 Author: Petr Student
 -Source: https://commons.wikimedia.org/wiki/File:Juvenile_common_kingfishers_(Alcedo_atthis).jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
 🐦 Emperor Penguin (Aptenodytes forsteri)
 
-- Title: 
+- Title: Aptenodytes forsteri -Antarctica -blzzard-8.jpg
 Author: https://commons.wikimedia.org/wiki/User:Snowmanradio
 -Source: https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Antarctica_-blzzard-8.jpg
 -License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-- Title: 
+- Title: Aptenodytes forsteri -Snow Hill Island, Antarctica -adults and juvenile-8.jpg
 Author: https://commons.wikimedia.org/wiki/User:Snowmanradio
 -Source: https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_-Snow_Hill_Island,_Antarctica_-adults_and_juvenile-8.jpg
 -License: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
-- Title: 
+- Title: Aptenodytes forsteri (1).jpg
 Author: https://commons.wikimedia.org/wiki/User:FunkMonk
 -Source: https://commons.wikimedia.org/wiki/File:Aptenodytes_forsteri_(1).jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Penguin in Antarctica jumping out of the water.jpg
 Author: Christopher Michel
 -Source: https://commons.wikimedia.org/wiki/File:Penguin_in_Antarctica_jumping_out_of_the_water.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
 🐦 European Robin (Erithacus rubecula)
 
-- Title: 
+- Title: European robin (Erithacus rubecula) juvenile.jpg
 Author: Charles J. Sharp 
 -Source: https://commons.wikimedia.org/wiki/File:European_robin_(Erithacus_rubecula)_juvenile.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Robin (Erithacus rubecula) - geograph.org.uk - 1147783.jpg
 Author: Christine Matthews
 -Source: https://commons.wikimedia.org/wiki/File:Robin_(Erithacus_rubecula)_-_geograph.org.uk_-_1147783.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
@@ -436,51 +421,51 @@ Author: Si Griffiths
 -Source: https://commons.wikimedia.org/wiki/File:European_Robin_(Erithacus_rubecula)_In_The_Snow.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: European Robin (Erithacus rubecula) In The Snow.jpg
 Author: 	Francis C. Franklin
 -Source: https://commons.wikimedia.org/wiki/File:Erithacus_rubecula_with_cocked_head.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
 🐦 Great Horned Owl (Bubo virginianus)
 
-- Title: 
+- Title: Great Horned Owl (Bubo virginianus).jpg
 Author: Bernard DUPONT
 -Source: https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_(Bubo_virginianus).jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Great Horned Owl (Bubo virginianus) in Joshua tree (Yucca brevifolia) near Black Rock.jpg
 Author: Robb Hannawacker, while working for Joshua Tree National Park
 -Source: https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_(Bubo_virginianus)_in_Joshua_tree_(Yucca_brevifolia)_near_Black_Rock.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Great Horned Owl (Bubo virginianus) - 48526543802.jpg
 Author: Bernard DUPONT
 -Source: https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_(Bubo_virginianus)_-_48526543802.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: Great Horned Owl (Bubo virginianus) (28119936012).jpg
 Author: Bernard DUPONT
 -Source: https://commons.wikimedia.org/wiki/File:Great_Horned_Owl_(Bubo_virginianus)_(28119936012).jpg
 -License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/deed.en)
 
 🐦 Peacock (Pavo cristatus)
 
-- Title: 
+- Title: Peacock (Male), Indian Peafowl or Blue Peafowl (Pavo cristatus), Birds Gallery, Natural History Museum, London.JPG
 Author: John Cummings
 -Source: https://commons.wikimedia.org/wiki/File:Peacock_(Male),_Indian_Peafowl_or_Blue_Peafowl_(Pavo_cristatus),_Birds_Gallery,_Natural_History_Museum,_London.JPG
 -License: CC BY-SA 2.0 (https://creativecommons.org/licenses/by-sa/2.0/)
 
-- Title: 
+- Title: File:Pavo cristatus - Maroparque 01.jpg
 Author: H. Zell
 -Source: https://commons.wikimedia.org/wiki/File:Pavo_cristatus_-_Maroparque_01.jpg
 -License: GNU Free Documentation License (https://en.wikipedia.org/wiki/GNU_Free_Documentation_License)
 
-- Title: 
+- Title: Peafowl or Peacock (Pavo cristatus) (11952911946).jpg
 Author: Peter Broster
 -Source: https://commons.wikimedia.org/wiki/File:Indian_Peafowl_or_Peacock_(Pavo_cristatus)_(11952911946).jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: File:Male peacock feathers not on display.jpg
 Author: Kyeager4
 -Source: https://commons.wikimedia.org/wiki/File:Male_peacock_feathers_not_on_display.jpg
 -License: Creative Commons Attribution-Share Alike 4.0 https://creativecommons.org/licenses/by-sa/4.0/
@@ -489,22 +474,22 @@ Author: Kyeager4
 
 🐦 Peregrine Falcon (Falco peregrinus)
 
-- Title: 
+- Title: Peregrine falcon (Falco peregrinus) SRI 23.jpg
 Author: Creepanta
 -Source: https://commons.wikimedia.org/wiki/File:Peregrine_falcon_(Falco_peregrinus)_SRI_23.jpg
 -License: Public Domain (https://en.wikipedia.org/wiki/Public_domain)
 
-- Title: 
+- Title: The Peregrine Falcon a Living Missile Bird.jpg
 Author: Shiv's fotografia
 -Source: https://commons.wikimedia.org/wiki/File:The_Peregrine_Falcon_a_Living_Missile_Bird.jpg
 -License: Creative Commons Attribution-Share Alike 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 
-- Title: 
+- Title: File:Falco peregrinus - 01.jpg
 Author: Carlos Delgado
 -Source: https://commons.wikimedia.org/wiki/File:Falco_peregrinus_-_01.jpg
 -License: Creative Commons Attribution-Share Alike 4.0 https://creativecommons.org/licenses/by-sa/4.0/
 
-- Title: 
+- Title: Falco peregrinus on nest Silverdale.jpg
 Author: sighmanb
 -Source: https://commons.wikimedia.org/wiki/File:Falco_peregrinus_on_nest_Silverdale.jpg
 -License:  CC BY 2.0 https://creativecommons.org/licenses/by/2.0/
