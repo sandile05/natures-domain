@@ -194,9 +194,6 @@ section#quote{
       font-size: 1.1rem;
     }
 
-    
-
-  
 
     .footer__socials{
       margin-top: 0.8rem;
@@ -214,7 +211,7 @@ section#quote{
   }
 
 
-  /* Media query for very small screens (mobile devices) */
+
   @media (max-width: 490px) {
     ._card_container {
       grid-template-columns: repeat(2, 1fr); /* Single card per row */
@@ -250,16 +247,12 @@ section#quote{
   .explore-text p{
     font-size: 1.3rem !important;
   }
-
- 
-  }
+}
 
   @media screen and (max-width: 339px){
     .explore-container .btn-container .btn{
       font-size: 13px;
     }
-
-  
   }
 
 

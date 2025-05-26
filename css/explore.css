@@ -602,7 +602,7 @@ section .explore_quote p{
   color: #333;
   display: flex;
   flex-direction: column;
-  gap: 6px; /* Adds consistent spacing between items */
+  gap: 6px; /* Adds consistent spacing */
 }
 
 .animal-details li {

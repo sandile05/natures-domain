@@ -1605,9 +1605,6 @@ document.addEventListener("click", (event) => {
   if (!suggestionsContainer.contains(event.target) && event.target !== searchInput) {
     suggestionsContainer.style.display = 'none'; // Hide suggestions
   }
-
-  // Check if the click is outside the filter list
-
 });
 
   // Apply filters when "Set Filter" is clicked

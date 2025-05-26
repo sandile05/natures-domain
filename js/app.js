@@ -23,41 +23,6 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  const h1Words = document.querySelectorAll('.swap');
-  const pTag = document.querySelector('.typewriter');
-
-  let loopCount = 0;
-
-  function swapWords() {
-    // First word goes up, second word goes down
-    h1Words[0].classList.add('switched-up');
-    h1Words[1].classList.add('switched-down');
-
-    setTimeout(() => {
-      // Switch back to original position
-      h1Words[0].classList.remove('switched-up');
-      h1Words[1].classList.remove('switched-down');
-    }, 1800); // Duration of the transition
-  }
-
-  function startAnimationLoop() {
-    setTimeout(() => {
-      swapWords();
-
-      setTimeout(() => {
-        swapWords(); // Switch back
-
-        loopCount++;
-        if (loopCount < 2) {
-          startAnimationLoop(); // Repeat the loop
-        } else {
-          pTag.classList.remove('typewriter'); // End with p tag visible
-        }
-      }, 1200); // Delay before switching back
-    }, 1200); // Delay to sync with typewriter animation
-  }
-
-startAnimationLoop();
 
 const navMenu = document.querySelector('.nav__menu');
 const navOpenBtn = document.querySelector('.nav__toggle-open');

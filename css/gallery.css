@@ -28,7 +28,7 @@
 }
 
 .box img:hover {
-    transform: scale(1.03); /* Slightly increase size */
+    transform: scale(1.03);
     filter: grayscale(70%); /* Convert to greyscale */
 }
 
